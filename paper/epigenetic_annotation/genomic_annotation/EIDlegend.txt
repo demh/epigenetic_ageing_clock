@@ -1,0 +1,127 @@
+E001	ES-I3 Cell Line
+E002	ES-WA7 Cell Line
+E003	H1 Cell Line
+E004	H1 BMP4 Derived Mesendoderm Cultured Cells
+E005	H1 BMP4 Derived Trophoblast Cultured Cells
+E006	H1 Derived Mesenchymal Stem Cells
+E007	H1 Derived Neuronal Progenitor Cultured Cells
+E008	H9 Cell Line
+E009	H9 Derived Neuronal Progenitor Cultured Cells
+E010	H9 Derived Neuron Cultured Cells
+E011	hESC Derived CD184+ Endoderm Cultured Cells
+E012	hESC Derived CD56+ Ectoderm Cultured Cells
+E013	hESC Derived CD56+ Mesoderm Cultured Cells
+E014	HUES48 Cell Line
+E015	HUES6 Cell Line
+E016	HUES64 Cell Line
+E017	IMR90 fetal lung fibroblasts Cell Line
+E018	iPS-15b Cell Line
+E019	iPS-18 Cell Line
+E020	iPS-20b Cell Line
+E021	iPS DF 6.9 Cell Line
+E022	iPS DF 19.11 Cell Line
+E023	Mesenchymal Stem Cell Derived Adipocyte Cultured Cells
+E024	ES-UCSF4 Cell Line
+E025	Adipose Derived Mesenchymal Stem Cell Cultured Cells
+E026	Bone Marrow Derived Cultured Mesenchymal Stem Cells
+E027	Breast Myoepithelial Primary Cells
+E028	Breast variant Human Mammary Epithelial Cells (vHMEC)
+E029	Primary monocytes fromperipheralblood
+E030	Primary neutrophils fromperipheralblood
+E031	Primary B cells from cord blood
+E032	Primary B cells from peripheral blood
+E033	Primary T cells from cord blood
+E034	Primary T cells fromperipheralblood
+E035	Primary hematopoietic stem cells
+E036	Primary hematopoietic stem cells short term culture
+E037	Primary T helper memory cells from peripheral blood 2
+E038	Primary T helper naive cells from peripheral blood
+E039	Primary T helper naive cells fromperipheralblood
+E040	Primary T helper memory cells from peripheral blood 1
+E041	Primary T helper cells PMA-I stimulated
+E042	Primary T helper 17 cells PMA-I stimulated
+E043	Primary T helper cells fromperipheralblood
+E044	Primary T regulatory cells fromperipheralblood
+E045	Primary T cells effector/memory enriched fromperipheralblood
+E046	Primary Natural Killer cells fromperipheralblood
+E047	Primary T killer naive cells fromperipheralblood
+E048	Primary T killer memory cells from peripheral blood
+E049	Mesenchymal Stem Cell Derived Chondrocyte Cultured Cells
+E050	Primary hematopoietic stem cells G-CSF-mobilized Female
+E051	Primary hematopoietic stem cells G-CSF-mobilized Male
+E052	Muscle Satellite Cultured Cells
+E053	Cortex derived primary cultured neurospheres
+E054	Ganglion Eminence derived primary cultured neurospheres
+E055	Foreskin Fibroblast Primary Cells skin01
+E056	Foreskin Fibroblast Primary Cells skin02
+E057	Foreskin Keratinocyte Primary Cells skin02
+E058	Foreskin Keratinocyte Primary Cells skin03
+E059	Foreskin Melanocyte Primary Cells skin01
+E061	Foreskin Melanocyte Primary Cells skin03
+E062	Primary mononuclear cells fromperipheralblood
+E063	Adipose Nuclei
+E065	Aorta
+E066	Liver
+E067	Brain Angular Gyrus
+E068	Brain Anterior Caudate
+E069	Brain Cingulate Gyrus
+E070	Brain Germinal Matrix
+E071	Brain Hippocampus Middle
+E072	Brain Inferior Temporal Lobe
+E073	Brain Dorsolateral Prefrontal Cortex
+E074	Brain Substantia Nigra
+E075	Colonic Mucosa
+E076	Colon Smooth Muscle
+E077	Duodenum Mucosa
+E078	Duodenum Smooth Muscle
+E079	Esophagus
+E080	Fetal Adrenal Gland
+E081	Fetal Brain Male
+E082	Fetal Brain Female
+E083	Fetal Heart
+E084	Fetal Intestine Large
+E085	Fetal Intestine Small
+E086	Fetal Kidney
+E087	Pancreatic Islets
+E088	Fetal Lung
+E089	Fetal Muscle Trunk
+E090	Fetal Muscle Leg
+E091	Placenta
+E092	Fetal Stomach
+E093	Fetal Thymus
+E094	Gastric
+E095	Left Ventricle
+E096	Lung
+E097	Ovary
+E098	Pancreas
+E099	Placenta Amnion
+E100	Psoas Muscle
+E101	Rectal Mucosa Donor 29
+E102	Rectal Mucosa Donor 31
+E103	Rectal Smooth Muscle
+E104	Right Atrium
+E105	Right Ventricle
+E106	Sigmoid Colon
+E107	Skeletal Muscle Male
+E108	Skeletal Muscle Female
+E109	Small Intestine
+E110	Stomach Mucosa
+E111	Stomach Smooth Muscle
+E112	Thymus
+E113	Spleen
+E114	A549 EtOH 0.02pct Lung Carcinoma Cell Line
+E115	Dnd41 TCell Leukemia Cell Line
+E116	GM12878 Lymphoblastoid Cell Line
+E117	HeLa-S3 Cervical Carcinoma Cell Line
+E118	HepG2 Hepatocellular Carcinoma Cell Line
+E119	HMEC Mammary Epithelial Primary Cells
+E120	HSMM Skeletal Muscle Myoblasts Cell Line
+E121	HSMM cell derived Skeletal Muscle Myotubes Cell Line
+E122	HUVEC Umbilical Vein Endothelial Cells Cell Line
+E123	K562 Leukemia Cell Line
+E124	Monocytes-CD14+ RO01746 Cell Line
+E125	NH-A Astrocytes Cell Line
+E126	NHDF-Ad Adult Dermal Fibroblast Primary Cells
+E127	NHEK-Epidermal Keratinocyte Primary Cells
+E128	NHLF Lung Fibroblast Primary Cells
+E129	Osteoblast Primary Cells

@@ -1,0 +1,9 @@
+Repli-Seq: same dataset as in Zhou et al. 2018 Nature Genetics, for the IMR90 cell type. 
+
+https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM923447&format=file&file=GSM923447%5Fhg19%5FwgEncodeUwRepliSeqImr90WaveSignalRep1%2EbigWig
+
+Lamin B1: same dataset as in Zhou et al. 2018 Nature Genetics, for the IMR90 cell type.
+
+https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSM1289416&format=file&file=GSM1289416%5F10032013%5FLaminB1%2DInput%2EOIS%2Ebw
+
+

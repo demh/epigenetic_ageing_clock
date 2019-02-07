@@ -1,0 +1,3 @@
+SampleID	Gene	Genome_assembly	Mutation	Protein_change	Mutation_effect	Pathogenic	Other_comments	Gender	Age_years	Inheritance	Birth_weight_kg	Gestational_age_weeks	Birth_weight_percentile	Height_SD	Weight_SD	OFC_SD	CNS_anomalies	Intellectual_disability	 Autism_Spectrum_Disorder	Seizures	Advanced_bone_age	Renal_anomalies	Cardiovascular_anomalies
+DL208122	NSD1	hg19	c.6437G>C	p.Cys2146Ser	Missense	YES_predicted		M	2	N/A	4.2	40	95%	+3SD	+3SD	+2SD	N/A	fine motor delay	No	No	Yes	N/A	N/A
+DL199861 	NSD1	hg19	c.6412T>C	p.Cys2138Arg	Missense	YES_predicted		M	7	N/A	4.5	42	99%	+3.5SD	+2SD	+3SD	slight asymmetry of ventricules (R>L); bilateral choroid plexus cysts	Yes	No	No	Yes	N/A	N/A

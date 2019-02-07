@@ -1,0 +1,3 @@
+File_ID,Feature_type,Data_type,Genome_assembly,Tissue,Age_years,Sex,File_path
+ENCFF754LBN,RNA_seq,minus strand signal of unique reads,hg19,PBMC,52,Female,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_PBMC_data/ENCFF754LBN.bigWig
+ENCFF398HDS,RNA_seq,plus strand signal of unique reads,hg19,PBMC,52,Female,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_PBMC_data/ENCFF398HDS.bigWig

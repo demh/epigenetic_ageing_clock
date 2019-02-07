@@ -1,0 +1,845 @@
+SampleID,Disease_status,Gene,Genome_assembly,Mutation,Protein_change,Mutation_effect,Pathogenic,Other_comments
+101032560039_R01C01,Coffin_Siris_ARID1B,ARID1B,hg19,c.5833T>C,p.Cys1945Arg,Missense,,VUS
+101032560039_R01C02,GTPTS,KAT6B,hg19,c.3578_3585delTCCAGCAT,p.Phe1193Serfs*23,Frameshift,YES,
+101032560039_R02C01,Coffin_Siris_ARID1B,ARID1B,hg19,c.3444C>G,p.Tyr1148*,Nonsense,YES,
+101032560039_R02C02,GTPTS,KAT6B,hg19,c.3769_3772delTCTA,p.Lys1258Glyfs*13,Frameshift,YES,
+101032560039_R03C01,Coffin_Siris_ARID1B,ARID1B,hg19,c.3236delT,p.Phe1079Serfs*51,Frameshift,YES,
+101032560039_R03C02,GTPTS,KAT6B,hg19,c.3769_3772delTCTA,p.Lys1258Glyfs*13,Frameshift,YES,
+101032560039_R04C01,Coffin_Siris_ARID1B,ARID1B,hg19,c.3716delC,p.Pro1239Hisfs*5,Frameshift,YES,
+101032560039_R04C02,Coffin_Siris_SMARCB1,SMARCB1,hg19,c.1091_1093delAGA,p.Lys364del,"In-frame deletion",YES,
+101032560039_R05C01,Coffin_Siris_ARID1B,ARID1B,hg19,c.2457dupT,p.Pro819fs,Frameshift,YES,
+101032560039_R05C02,Coffin_Siris_SMARCB1,SMARCB1,hg19,c.1130G>A,p.Arg377His,Missense,YES,
+101032560039_R06C01,SBBYSS,KAT6B,hg19,c.3046delA,p.Ser1016Alafs*98,Frameshift,YES,
+101032560039_R06C02,Coffin_Siris_SMARCB1,SMARCB1,hg19,c.1130G>A,p.Arg377His,Missense,YES,
+101032560089_R01C01,Coffin_Siris_ARID1B,ARID1B,hg19,"6q25.2-q.25.3 (3.77Mb)",,Microdeletion,YES,
+101032560089_R02C01,Coffin_Siris_ARID1B,ARID1B,hg19,"6q25.2-q26 (6.7 Mb)",,"Long deletion",YES,
+101032560089_R03C01,Coffin_Siris_ARID1B,ARID1B,hg19,"6q24.3-q25.3 (10.3 Mb)",,"Long deletion",YES,
+101032560089_R04C01,Coffin_Siris_ARID1B,ARID1B,hg19,"6q25.2-q27 (13.81 Mb)",,"Long deletion",YES,
+101032560089_R05C01,Saethre_Chotzen,TWIST1,hg19,c.149delC,p.Ala50fs,Frameshift,YES,
+101032560089_R06C01,Saethre_Chotzen,TWIST1,hg19,c.149delC,p.Ala50fs,Frameshift,YES,
+101178130036_R01C01,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,YES,Affected
+101178130036_R01C02,Claes_Jensen,KDM5C,hg19,c.1439C>T,p.Pro480Leu,Missense,YES_predicted,Affected
+101178130036_R02C01,Claes_Jensen,KDM5C,hg19,c.4439_4440delAG,p.Arg1481Glyfs*,Frameshift,YES,Affected
+101178130036_R02C02,Claes_Jensen,KDM5C,hg19,"Intron 11:+5G>A",,"Splice site mutation",YES,Affected
+101178130036_R03C01,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,,Carrier
+101178130036_R04C01,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,YES,Affected
+101178130036_R05C01,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,,Carrier
+101178130036_R06C01,Claes_Jensen,KDM5C,hg19,c.1439C>T,p.Pro480Leu,Missense,YES,Affected
+101231000136_R01C01,ASD,,hg19,,,,,
+101231000136_R01C02,ASD,,hg19,,,,,
+101231000136_R02C01,ASD,,hg19,,,,,
+101231000136_R02C02,ASD,,hg19,,,,,
+101231000136_R03C01,ASD,,hg19,,,,,
+101231000136_R03C02,ASD,,hg19,,,,,
+101231000136_R04C01,ASD,,hg19,,,,,
+101231000136_R04C02,ASD,,hg19,,,,,
+101231000136_R05C01,ASD,,hg19,,,,,
+101231000136_R05C02,ASD,,hg19,,,,,
+101231000136_R06C01,ASD,,hg19,,,,,
+101231000136_R06C02,ASD,,hg19,,,,,
+101231000142_R01C01,Kabuki,KMT2D,hg19,c.8382C>A,p.Gly2794Gly,Synonymous,NO_predicted,Benign
+101231000142_R01C02,Kabuki,KMT2D,hg19,"c.13059delG ",p.Pro4353fs,Frameshift,YES,
+101231000142_R02C01,Kabuki,KMT2D,hg19,c.2438C>T,p.Pro813Leu,Missense,NO,Benign
+101231000142_R02C02,Kabuki,KMT2D,hg19,"c.839+1delG ",,"Splice site mutation",YES,
+101231000142_R03C01,Kabuki,KMT2D,hg19,c.15540G>C,p.Val5180Val,Synonymous,NO_predicted,Benign
+101231000142_R03C02,Kabuki,KMT2D,hg19,c.5868-25G>A,,"Intronic mutation",NO_predicted,Benign
+101231000142_R04C01,Kabuki,KMT2D,hg19,c.16229G>A,p.Gly5410Glu,Missense,,VUS
+101231000142_R04C02,Kabuki,KMT2D,hg19,c.1938C>G,p.Pro646Pro,Synonymous,NO_predicted,Benign
+101231000142_R05C01,Kabuki,KMT2D,hg19,c.4265G>C,p.Trp1422Ser,Missense,,VUS
+101231000142_R05C02,Kabuki,KMT2D,hg19,c.15844C>T,p.Arg5282*,Nonsense,YES,
+101231000142_R06C01,Kabuki,KMT2D,hg19,c.16294C>T,p.Arg5432Trp,Missense,YES_predicted,
+101231000142_R06C02,Kabuki,KMT2D,hg19,c.8488C>T,p.Arg2830*,Nonsense,YES,
+101231000151_R01C01,ASD,,hg19,,,,,
+101231000151_R01C02,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,YES,Affected
+101231000151_R02C01,ASD,,hg19,,,,,
+101231000151_R02C02,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,,Carrier
+101231000151_R03C01,Claes_Jensen,KDM5C,hg19,c.4439_4440delAG,p.Arg1481Glyfs*,Frameshift,YES,Affected
+101231000151_R03C02,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,YES,Affected
+101231000151_R04C01,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,YES,Affected
+101231000151_R04C02,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,,Carrier
+101231000151_R05C01,Claes_Jensen,KDM5C,hg19,c.4439_4440delAG,p.Arg1481Glyfs*,Frameshift,,Carrier
+101231000151_R05C02,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,,Carrier
+101231000151_R06C01,Claes_Jensen,KDM5C,hg19,c.229G>A,p.Ala77Thr,Missense,,Carrier
+101231000151_R06C02,Claes_Jensen,KDM5C,hg19,c.1510G>A,p.Val504Met,Missense,,Carrier
+101231000158_R01C01,Kabuki,KMT2D,hg19,c.15641G>T,p.Arg5214Leu,Missense,,VUS
+101231000158_R01C02,ASD,,hg19,,,,,
+101231000158_R02C01,Kabuki,KMT2D,hg19,"c.3907-15C>G ",,"Intronic mutation",NO_predicted,"Benign; DD/ID"
+101231000158_R02C02,ASD,,hg19,,,,,
+101231000158_R03C01,Kabuki,KMT2D,hg19,"c.4168dupG ",p.Ala1390fs,Frameshift,YES,DD/ID
+101231000158_R03C02,ASD,,hg19,,,,,
+101231000158_R04C01,Kabuki,KMT2D,hg19,c.15289C>T,p.Arg5097*,Nonsense,YES,DD/ID-Orofacial
+101231000158_R04C02,ASD,,hg19,,,,,
+101231000158_R05C01,Kabuki,KMT2D,hg19,"c.11750_11758del9 ",p.Gln3917_Gln3919del,"In-frame deletion",,VUS
+101231000158_R05C02,ASD,,hg19,,,,,
+101231000158_R06C01,Kabuki,KMT2D,hg19,"c.4419-2A>G ",,"Splice site mutation",YES,DD/ID-Orofacial
+101231000158_R06C02,ASD,,hg19,,,,,
+101279430086_R03C02,Saethre_Chotzen,TWIST1,hg19,c.385_405dup21,,"In-frame insertion",,VUS
+101279430086_R04C02,Saethre_Chotzen,TWIST1,hg19,c.385_405dup21,,"In-frame insertion",,VUS
+101279430086_R05C02,Saethre_Chotzen,TWIST1,hg19,c.421G>A,p.Asp141Asn,Missense,,VUS
+101279430086_R06C02,Saethre_Chotzen,TWIST1,hg19,c.396_416dup21,,"In-frame insertion",,VUS
+101279430093_R01C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;24/66 repeats"
+101279430093_R01C02,FXS_grey,FMR1,hg19,,,"CGG repeat expansion",,"Male_grey;53 repeats"
+101279430093_R02C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;60 repeats"
+101279430093_R02C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;56 repeats"
+101279430093_R03C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;103 repeats"
+101279430093_R03C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;107 repeats"
+101279430093_R04C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;57 repeats"
+101279430093_R04C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;100 repeats"
+101279430093_R05C01,FXS_47XXY,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_PM;30/60 repeats"
+101279430093_R05C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;110/160 repeats"
+101279430093_R06C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;100 repeats"
+101279430093_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_PM;100 repeats"
+101279430118_R01C01,Kabuki,KMT2D,hg19,c.16048A>T,p.Lys5350*,Nonsense,YES,
+101279430118_R01C02,Kabuki,KMT2D,hg19,c.10201C>T,p.Gln3401*,Nonsense,YES,
+101279430118_R02C01,Kabuki,KMT2D,hg19,c.16360C>T,p.Arg5454*,Nonsense,YES,
+101279430118_R03C01,Kabuki,KMT2D,hg19,c.8692C>T,p.Gln2898*,Nonsense,YES,
+101279430118_R03C02,Kabuki,KMT2D,hg19,"c.10741-42G>A ",,"Intronic mutation",NO_predicted,Benign
+101279430118_R04C01,Kabuki,KMT2D,hg19,c.14878C>T,p.Arg4960*,Nonsense,YES,Orofacial
+101279430118_R04C02,Kabuki,KMT2D,hg19,c.6265A>T,p.Lys2089*,Nonsense,YES,Orofacial
+101279430118_R05C01,Kabuki,KMT2D,hg19,"c.10740+1G>A ",,"Splice site mutation",YES,
+101279430118_R05C02,Kabuki,KMT2D,hg19,c.13652T>A,p.Leu4551*,Nonsense,YES,
+101279430118_R06C01,Kabuki,KMT2D,hg19,c.11596C>T,p.Gln3866*,Nonsense,YES,
+101279430118_R06C02,Kabuki,KMT2D,hg19,c.12889T>C,p.Ser4297Pro,Missense,,VUS
+200049730022_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730022_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730023_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730023_R01C02,Trisomy_21,,hg19,,,,,
+200049730023_R02C01,Trisomy_21,,hg19,,,,,
+200049730023_R02C02,Trisomy_21,,hg19,,,,,
+200049730023_R03C01,Trisomy_21,,hg19,,,,,
+200049730023_R03C02,Undiagnosed_DD/ID,,hg19,,,,,"46XY;  SRY+ with female phenotype"
+200049730023_R04C01,Trisomy_21,,hg19,,,,,
+200049730023_R04C02,Undiagnosed_DD/ID,,hg19,,,,,"MZ twin brother of 14:CG3402"
+200049730023_R05C01,Trisomy_21,,hg19,,,,,
+200049730023_R05C02,Undiagnosed_DD/ID,,hg19,,,,,"45X; t (X;22) (q28;q11.2)"
+200049730023_R06C01,Trisomy_21,,hg19,,,,,
+200049730023_R06C02,Undiagnosed_DD/ID,,hg19,,,,,"45X; t (X;22) (q28;q11.2)"
+200049730032_R01C01,Noonan_PTPN11,PTPN11,hg19,c.1493G>T,p.Arg498Leu,Missense,YES,
+200049730032_R01C02,Noonan_PTPN11,PTPN11,hg19,c.1528C>G,p.Gln510Glu,Missense,YES,
+200049730032_R02C01,Noonan_SOS1,SOS1,hg19,c.2536G>A,p.Glu846Lys,Missense,YES,
+200049730032_R02C02,CFC_BRAF,BRAF,hg19,c.1501G>A,p.Glu501Lys,Missense,YES,
+200049730032_R03C01,Noonan_RAF1,RAF1,hg19,c.781C>T,p.Pro261Ser,Missense,YES,
+200049730032_R03C02,Noonan_CBL,CBL,hg19,"c.1228-2A>G ",,"Splice site mutation",YES,
+200049730032_R04C01,Noonan_KRAS,KRAS,hg19,c.40G>A,p.Val14Ile,Missense,YES,
+200049730032_R04C02,Control,,hg19,,,,,"Control for family member with Noonan "
+200049730032_R05C01,Noonan_SHOC2,SHOC2,hg19,c.4A>G,p.Ser2Gly,Missense,YES,
+200049730032_R05C02,Noonan_SOS1,SOS1,hg19,c.1654A>G,p.Arg552Gly,Missense,YES,
+200049730032_R06C01,Noonan_SOS1,SOS1,hg19,c.1310T>C,p.Ile437Thr,Missense,YES,
+200049730032_R06C02,Noonan_PTPN11,PTPN11,hg19,c.228G>C,p.Glu76Asp,Missense,YES,
+200049730035_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730035_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730035_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+200049730035_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730035_R03C02,Rett,MECP2,hg19,,,,YES,
+200049730035_R04C01,FXS_replicate,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;33/56 repeats;replicate of MS0769"
+200049730035_R04C02,Rett,MECP2,hg19,,,,YES,
+200049730035_R05C01,Kabuki,KMT2D,hg19,"c. 4135_4136delAT ",p.Met1379fs,Frameshift,YES,
+200049730035_R05C02,Rett,MECP2,hg19,,,,YES,
+200049730035_R06C01,Saethre_Chotzen,TWIST1,hg19,,,"Full gene deletion",YES,"MLPA analysis is consistent with a full gene deletion of the TWIST gene"
+200049730035_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+200049730044_R01C01,Noonan_KRAS,KRAS,hg19,c.65A>G,p.Gln22Arg,Missense,YES,
+200049730044_R01C02,Noonan_SHOC2,SHOC2,hg19,c.4A>G,p.Ser2Gly,Missense,,"Noonan_SHOC2_Possible; Noonan-like "
+200049730044_R02C01,Noonan_PTPN11,PTPN11,hg19,c.215C>G,p.Ala72Gly,Missense,YES,
+200049730044_R02C02,Noonan_RIT1,RIT1,hg19,c.335G>C,p.Gly112Ala,Missense,YES,
+200049730044_R03C01,Noonan_PTPN11,PTPN11,hg19,c.1391G>C,p.Gly464Ala,Missense,YES,
+200049730044_R03C02,LEOPARD_PTPN11,PTPN11,hg19,c.1403C>T,p.Thr468Met,Missense,YES,
+200049730044_R04C01,Costello,HRAS,hg19,c.37G>T,p.Gly13Cys,Missense,YES,
+200049730044_R04C02,Noonan_PTPN11,PTPN11,hg19,c.922A>G,p.Asn308Asp,Missense,YES,
+200049730044_R05C01,Noonan_PTPN11,PTPN11,hg19,c.836A>G,p.Tyr279Cys,Missense,YES,
+200049730044_R05C02,Noonan_SOS1,SOS1,hg19,c.806T>C,p.Met269Thr,Missense,YES,
+200049730044_R06C01,Noonan_RAF1,RAF1,hg19,c.770C>T,p.Ser257Leu,Missense,YES,
+200049730044_R06C02,Noonan_SHOC2,SHOC2,hg19,c.4A>G,p.Ser2Gly,Missense,,"Noonan_SHOC2_Possible; Noonan-like"
+200049730045_R01C01,Noonan_BRAF,BRAF,hg19,c.1802A>C,p.Lys601Thr,Missense,YES,
+200049730045_R02C01,Noonan_PTPN11,PTPN11,hg19,c.214G>T,p.Ala72Ser,Missense,YES,
+200049730045_R02C02,Noonan_PTPN11,PTPN11,hg19,c.178G>A,p.Gly60Ser,Missense,YES,
+200049730045_R03C01,Noonan_PTPN11,PTPN11,hg19,c.124A>G,p.Thr42Ala,Missense,,"Noonan_PTPN11_Possible; replicate of 200121140142_R06C02"
+200049730045_R03C02,Costello,HRAS,hg19,c.34G>A,p.Gly12Ser,Missense,YES,
+200049730045_R04C01,Noonan_BRAF,BRAF,hg19,c.1787G>T,p.Gly596Val,Missense,YES,
+200049730045_R04C02,Noonan_SOS1,SOS1,hg19,c.1642A>C,p.Ser548Arg,Missense,YES,
+200049730045_R05C01,Noonan_SOS1,SOS1,hg19,c.925G>T,p.Asp309Tyr,Missense,YES,
+200049730045_R05C02,CFC_BRAF,BRAF,hg19,c.730A>C,p.Thr244Pro,Missense,YES,
+200049730045_R06C01,Noonan_BRAF,BRAF,hg19,c.736G>C,p.Ala246Pro,Missense,YES,
+200049730045_R06C02,Noonan_SOS1,SOS1,hg19,c.1655G>C,p.Arg552Thr,Missense,YES,
+200049730055_R01C01,Noonan_SOS1,SOS1,hg19,c.508A>G,p.Lys170Glu,Missense,YES,
+200049730055_R01C02,Costello,HRAS,hg19,c.37G>T,p.Gly13Cys,Missense,YES,
+200049730055_R02C01,Noonan_RAF1,RAF1,hg19,c.788T>G,p.Val263Gly,Missense,YES,
+200049730055_R02C02,Noonan_MAP2K1_bad_annotation,MAP2K1,hg19,c.619G>A,p.Glu207Lys,Missense,,
+200049730055_R03C01,Costello,HRAS,hg19,c.437C>T,p.Ala146Val,Missense,YES,
+200049730055_R03C02,Noonan_RAF1,RAF1,hg19,c.782C>T,p.Pro261Leu,Missense,YES,
+200049730055_R04C01,Noonan_CBL,CBL,hg19,c.1099C>A,p.Gln367Lys,Missense,YES,
+200049730055_R04C02,Noonan_KRAS,KRAS,hg19,c.173C>T,p.Thr58Ile,Missense,YES,
+200049730055_R05C01,Noonan_KRAS,KRAS,hg19,c.178G>C,p.Gly60Arg,Missense,YES,
+200049730055_R05C02,Noonan_PTPN11,PTPN11,hg19,c.172A>G,p.Asn58Asp,Missense,YES,
+200049730055_R06C01,Noonan_KRAS,KRAS,hg19,c.466T>G,p.Phe156Val,Missense,YES,
+200049730055_R06C02,CFC_BRAF,BRAF,hg19,c.770A>G,p.Gln257Arg,Missense,YES,
+200069280135_R01C01,Noonan_KRAS,KRAS,hg19,c.466T>A,p.Phe156Ile,Missense,YES,
+200069280135_R01C02,Noonan_RAF1,RAF1,hg19,c.786T>A,p.Asn262Lys,Missense,YES,
+200069280135_R02C01,Noonan_RAF1,RAF1,hg19,c.768G>T,p.Arg256Ser,Missense,YES,
+200069280135_R02C02,Noonan_KRAS,KRAS,hg19,c.182A>G,p.Gln61Arg,Missense,YES,
+200069280135_R03C01,CFC_MAP2K2,MAP2K2,hg19,c.400T>C,p.Tyr134His,Missense,YES,
+200069280135_R03C02,Noonan_BRAF,BRAF,hg19,c.1455G>C,p.Leu485Phe,Missense,YES,
+200069280135_R04C01,Costello,HRAS,hg19,c.173C>T,p.Thr58Ile,Missense,YES,
+200069280135_R04C02,CFC_MAP2K1,MAP2K1,hg19,c.371C>T,p.Pro124Leu,Missense,YES,
+200069280135_R05C01,Noonan_MAP2K2,MAP2K2,hg19,c.401A>G,p.Tyr134Cys,Missense,YES,
+200069280135_R05C02,CFC_MAP2K1,MAP2K1,hg19,c.383G>T,p.Gly128Val,Missense,YES,
+200069280135_R06C01,LEOPARD_PTPN11,PTPN11,hg19,c.1391G>C,p.Gly464Ala,Missense,YES,
+200069280135_R06C02,CFC_KRAS,KRAS,hg19,c.101C>G,p.Pro34Arg,Missense,YES,
+200071610002_R01C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;200/0 repeats"
+200071610002_R01C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;30/80 repeats"
+200071610002_R02C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;41/200 repeats"
+200071610002_R02C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;23/57 repeats"
+200071610002_R03C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_FM;200/400 repeats"
+200071610002_R03C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;30/85 repeats"
+200071610002_R04C01,FXS_bad_sample,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_FM;160/1000 repeats"
+200071610002_R04C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;33/56 repeats;replicate of MS0840"
+200071610002_R05C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;30/100 repeats"
+200071610002_R05C02,FXS_normal,FMR1,hg19,,,"CGG repeat expansion",,"Female_normal;32/0 repeats"
+200071610002_R06C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;22/90 repeats"
+200071610002_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_PM;29/63 repeats"
+200071610033_R01C01,Noonan_SOS1,SOS1,hg19,c.1294T>C,p.Trp432Arg,Missense,YES,
+200071610033_R01C02,Noonan_SOS1,SOS1,hg19,c.1322G>A,p.Cys441Tyr,Missense,YES,
+200071610033_R02C01,Noonan_PTPN11,PTPN11,hg19,c.174C>A,p.Asn58Lys,Missense,YES,
+200071610033_R02C02,Costello,HRAS,hg19,c.175_176delinsCT,p.Ala59Leu,Missense,YES,
+200071610033_R03C01,Noonan_KRAS,KRAS,hg19,c.214A>T,p.Met72Leu,Missense,YES,
+200071610033_R03C02,CFC_BRAF,BRAF,hg19,c.1741A>G,p.Asn581Asp,Missense,YES,
+200071610033_R04C01,Noonan_SOS1,SOS1,hg19,c.806T>G,p.Met269Arg,Missense,YES,
+200071610033_R04C02,Noonan_SOS1,SOS1,hg19,c.797C>A,p.Thr266Lys,Missense,YES,
+200071610033_R05C01,CFC_BRAF,BRAF,hg19,c.1914T>G,p.Asp638Glu,Missense,YES,
+200071610033_R05C02,LEOPARD_PTPN11,PTPN11,hg19,c.1493G>T,p.Arg498Leu,Missense,YES,"Renamed from Noonan_PTPN11"
+200071610033_R06C01,Costello,HRAS,hg19,c.35_36delinsAA,p.Gly12Glu,Missense,YES,
+200071610033_R06C02,Costello,HRAS,hg19,c.34G>A,p.Gly12Ser,Missense,YES,
+200071610038_R01C01,Costello,HRAS,hg19,c.34G>T,p.Gly12Cys,Missense,YES,
+200071610038_R01C02,CFC_BRAF,BRAF,hg19,c.1720C>T,p.His574Tyr,Missense,YES,
+200071610038_R02C01,Noonan_SOS1,SOS1,hg19,c.1297G>A,p.Glu433Lys,Missense,YES,
+200071610038_R02C02,Noonan_CBL,CBL,hg19,c.1096-1G>C,,"Splice site mutation",YES,
+200071610038_R03C01,Noonan_SOS1,SOS1,hg19,c.1300G>A,p.Gly434Arg,Missense,YES,
+200071610038_R03C02,Noonan_RAF1,RAF1,hg19,c.524A>G,p.His175Arg,Missense,YES,
+200071610038_R04C01,Noonan_MAP2K1,MAP2K1,hg19,c.169A>C,p.Lys57Gln,Missense,YES,
+200071610038_R04C02,Noonan_RAF1,RAF1,hg19,c.1837C>G,p.Leu613Val,Missense,YES,
+200071610038_R05C01,Noonan_RAF1,RAF1,hg19,c.775T>A,p.Ser259Thr,Missense,YES,
+200071610038_R05C02,Noonan_RAF1,RAF1,hg19,c.1472C>T,p.Thr491Ile,Missense,YES,
+200071610038_R06C01,Noonan_CBL,CBL,hg19,c.1096-4_1096-1delAAAG,,"Splice site mutation",YES,
+200071610038_R06C02,Noonan_KRAS,KRAS,hg19,c.101C>T,p.Pro34Leu,Missense,YES,
+200090280076_R01C01,Costello,HRAS,hg19,c.35G>A,p.Gly12Asp,Missense,YES,
+200090280076_R01C02,CFC_MAP2K1,MAP2K1,hg19,c.388T>C,p.Tyr130His,Missense,YES,
+200090280076_R02C01,Noonan_KRAS,KRAS,hg19,c.454G>T,p.Val152Leu,Missense,YES,
+200090280076_R02C02,LEOPARD_PTPN11,PTPN11,hg19,c.836A>G,p.Tyr279Cys,Missense,YES,"Renamed from Noonan_PTPN11"
+200090280076_R03C01,Noonan_RAF1,RAF1,hg19,c.781C>A,p.Pro261Thr,Missense,YES,
+200090280076_R03C02,Noonan_BRAF,BRAF,hg19,c.722C>T,p.Thr241Met,Missense,YES,
+200090280076_R04C01,CFC_BRAF,BRAF,hg19,c.1743T>A,p.Asn581Lys,Missense,YES,
+200090280076_R04C02,CFC_BRAF,BRAF,hg19,c.721A>C,p.Thr241Pro,Missense,YES,
+200090280076_R05C01,CFC_BRAF,BRAF,hg19,c.1406G>A,p.Gly469Glu,Missense,YES,
+200090280076_R05C02,Costello,HRAS,hg19,c.350A>G,p.Lys117Arg,Missense,YES,
+200090280076_R06C01,Costello,HRAS,hg19,c.35G>T,p.Gly12Val,Missense,YES,
+200090280076_R06C02,CFC_MAP2K1,MAP2K1,hg19,c.389A>G,p.Tyr130Cys,Missense,YES,
+200121140066_R01C01,Dubowitz,,hg19,,,,,
+200121140066_R01C02,Control,,hg19,,,,,
+200121140066_R02C01,Dubowitz,,hg19,,,,,
+200121140066_R02C02,Control,,hg19,,,,,
+200121140066_R03C01,Dubowitz,,hg19,,,,,
+200121140066_R03C02,Control,,hg19,,,,,
+200121140066_R04C01,Dubowitz,,hg19,,,,,
+200121140066_R04C02,Hallerman_Streiff,,hg19,,,,,
+200121140066_R05C01,Atypical_Rett,,hg19,,,,,
+200121140066_R05C02,Hallerman_Streiff,,hg19,,,,,
+200121140066_R06C01,Rett,MECP2,hg19,,,,YES,
+200121140066_R06C02,Hallerman_Streiff,,hg19,,,,,
+200121140142_R05C02,Noonan_MAP2K1,MAP2K1,hg19,c.199G>A,p.Asp67Asn,Missense,YES,
+200121140142_R06C02,Noonan_PTPN11,PTPN11,hg19,c.124A>G,p.Thr42Ala,Missense,YES,"Noonan_PTPN11_Possible_replicated; replicate of 200049730045_R03C01"
+200123460016_R01C01,FFS,,hg19,,,,,
+200123460016_R01C02,FFS,,hg19,,,,,
+200123460016_R02C01,FFS,,hg19,,,,,
+200123460016_R02C02,FFS,,hg19,,,,,
+200123460016_R03C01,FFS,,hg19,,,,,
+200123460016_R03C02,Undiagnosed_DD/ID,,hg19,,,,,"Previously assumed Rett Syndrome"
+200123460016_R04C01,FFS,,hg19,,,,,
+200123460016_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460016_R05C01,FFS,,hg19,,,,,
+200123460016_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460016_R06C01,FFS,,hg19,,,,,
+200123460016_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+200123460046_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460072_R01C01,Hallerman_Streiff,,hg19,,,,,
+200123460072_R01C02,Nablus,,hg19,,,,,
+200123460072_R02C01,Hallerman_Streiff,,hg19,,,,,
+200123460072_R02C02,Ataxia,,hg19,,,,,
+200123460072_R03C01,Wiedemann_Steiner,KMT2A,hg19,,,,YES,MLL
+200123460072_R03C02,Ataxia,,hg19,,,,,
+200123460072_R04C01,Nablus,,hg19,,,,,
+200123460072_R04C02,SCARF,,hg19,,,,,
+200123460072_R05C01,Nablus,,hg19,,,,,
+200123460072_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+200123460072_R06C01,Nablus,,hg19,,,,,
+200123460072_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+3998568164_R01C01,Rett_Angelman??,,hg19,,,,,"p.R133C/Abnormal analysis; Rett/Angelman"
+3998568164_R01C02,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R02C01,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R02C02,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R03C01,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R03C02,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R04C01,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R04C02,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R05C01,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R05C02,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R06C01,Angelman,UBE3A,hg19,,,,YES,
+3998568164_R06C02,Angelman,UBE3A,hg19,,,,YES,
+3998888026_R01C01,Saethre_Chotzen_bad_annotation,TWIST1,hg19,,,,,"A three base pair deletion at nucleotide 261 (261del13). Annotation not clear. "
+3998888026_R01C02,Saethre_Chotzen,TWIST1,hg19,c.156delC,p.Pro52fs,Frameshift,YES,
+3998888026_R02C01,Saethre_Chotzen,TWIST1,hg19,c.376G>T,p.Glu126*,Nonsense,YES,
+3998888026_R02C02,Saethre_Chotzen,TWIST1,hg19,c.406_407ins21,,"In-frame insertion",YES,
+3998888026_R03C01,Saethre_Chotzen,TWIST1,hg19,"c.347G>A   ",p.Arg116Gln,Missense,,VUS
+3998888026_R03C02,Saethre_Chotzen,TWIST1,hg19,c.156delC,p.Pro52fs,Frameshift,YES,"Mother to MS0613"
+3998888026_R04C01,Saethre_Chotzen,TWIST1,hg19,c.418_419ins21,,"In-frame insertion",YES,
+3998888026_R04C02,Saethre_Chotzen,TWIST1,hg19,c.319_320del18,,"In-frame deletion",,VUS
+3998888026_R05C01,Saethre_Chotzen,TWIST1,hg19,c.277_278ins21,,"In-frame insertion",,Unknown
+3998888026_R05C02,Saethre_Chotzen,TWIST1,hg19,c.421_422ins21,,"In-frame insertion",,Unknown
+3998888026_R06C01,Saethre_Chotzen,TWIST1,hg19,c.410_411ins21,,"In-frame insertion",,Unknown
+3998888026_R06C02,Saethre_Chotzen,TWIST1,hg19,"c.347G>C ",p.Arg116Pro,Missense,,VUS
+3998888043_R01C01,Prader_Willis,,hg19,,,,YES,
+3998888043_R01C02,Prader_Willis,,hg19,,,,YES,
+3998888043_R02C01,Prader_Willis,,hg19,,,,YES,
+3998888043_R02C02,Prader_Willis,,hg19,,,,YES,
+3998888043_R03C01,Beckwith_Wiedemann,,hg19,,,,YES,
+3998888043_R03C02,Prader_Willis,,hg19,,,,YES,
+3998888043_R04C01,Beckwith_Wiedemann,,hg19,,,,YES,
+3998888043_R04C02,Prader_Willis,,hg19,,,,YES,
+3998888043_R05C01,Kabuki,KMT2D,hg19,"c.1801_1822dup22 ",,Frameshift,YES,
+3998888043_R05C02,Silver_Russell,,hg19,,,,YES,
+3998888043_R06C01,Prader_Willis,,hg19,,,,YES,
+3998888043_R06C02,Saethre_Chotzen,TWIST1,hg19,c.385_405dup21,,"In-frame insertion",YES,
+3998888064_R01C01,Kabuki,KMT2D,hg19,"c.548delC ",p.Pro183fs,Frameshift,YES,Orofacial
+3998888064_R01C02,Kabuki,KMT2D,hg19,c.4143G>A,p.Val1381Val,Synonymous,,VUS
+3998888064_R02C01,Kabuki,KMT2D,hg19,c.7411C>T,p.Arg2471*,Nonsense,YES,
+3998888064_R02C02,Kabuki,KMT2D,hg19,"c.401-11delC ",,"Intronic mutation",NO_predicted,Likely_Benign
+3998888064_R03C01,Kabuki,KMT2D,hg19,"c.1966dupC ",pLeu656fs,Frameshift,YES,DD/ID
+3998888064_R03C02,Kabuki,KMT2D,hg19,c.12913G>A,p.Val4305Ile,Missense,NO_predicted,Likely_Benign
+3998888064_R04C01,Kabuki,KMT2D,hg19,c.6752C>T,p.Ser2251Leu,Missense,NO_predicted,"Orofacial; Likely_Benign"
+3998888064_R04C02,Kabuki,KMT2D,hg19,c.15108_15110del3,p.His5036_Glu5037delinsGln,"In-frame deletion",,VUS
+3998888064_R05C01,Kabuki,KMT2D,hg19,"c.6200delA ",p.Asn2067fs,Frameshift,YES,
+3998888064_R05C02,Kabuki,KMT2D,hg19,c.7933C>T,p.Arg2645*,Nonsense,YES,
+3998888064_R06C01,Kabuki,KMT2D,hg19,c.13450C>T,p.Arg4484*,Nonsense,YES,Orofacial
+3998888064_R06C02,Kabuki,KMT2D,hg19,c.13644C>T,p.Ser4548Ser,Synonymous,NO,
+3998909015_R01C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;300-700 repeats"
+3998909015_R01C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;550-1200 repeats"
+3998909015_R02C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;400-750 repeats"
+3998909015_R02C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;650-1000 repeats"
+3998909015_R03C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;200-350/150-200 repeats"
+3998909015_R03C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;400-700/102 repeats"
+3998909015_R04C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;750-1600 repeats"
+3998909015_R04C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;600-1300/110 repeats"
+3998909015_R05C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;750-1450 repeats"
+3998909015_R05C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;300-400 repeats"
+3998909015_R06C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;600-1000 repeats"
+3998909015_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;1600 repeats"
+3998909052_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+3998909052_R02C02,Coffin_Lowry,RPS6KA3,hg19,"Intron 9:+28 A>G",,,,"VUS; We have not performed functional studies"
+3998909052_R03C02,Coffin_Lowry_bad_annotation,RPS6KA3,hg19,"c.1227delGAA‚Ä¶TCAG; p. del I2 43-409 I14)",,,,Unknown
+3998909052_R04C02,Coffin_Lowry,RPS6KA3,hg19,c.1520insA,p.Arg507fs,Frameshift,YES,
+3998909052_R05C02,Coffin_Lowry,RPS6KA3,hg19,c.1894C>T,p.Arg632*,Nonsense,YES,
+3998909052_R06C02,Coffin_Lowry_bad_annotation,RPS6KA3,hg19,c.371G>S,p.fs372X,Frameshift?,,"Weird annotation of the mutation"
+3998920115_R01C01,Rett,MECP2,hg19,,p.Arg106Trp,Missense,YES,
+3998920115_R01C02,Rett,MECP2,hg19,,p.Arg168*,Nonsense,YES,
+3998920115_R02C01,Rett,MECP2,hg19,,p.Pro302Arg,Missense,YES,
+3998920115_R02C02,Rett,MECP2,hg19,,,"Exonic deletion",YES,"Deletion 1113 bp long and  starting at c.1085 "
+3998920115_R03C01,Rett,MECP2,hg19,,p.Thr158Met,Missense,YES,
+3998920115_R03C02,Rett_bad_annotation,MECP2,hg19,917_939del123,,,,"Weird annotation; is it deletion 23 bp long?"
+3998920115_R04C01,Rett,MECP2,hg19,"Deletion in exon 4",,"Exonic deletion",YES,
+3998920115_R04C02,Rett,MECP2,hg19,,p.Thr158Met,Missense,YES,
+3998920115_R05C01,Rett,MECP2,hg19,,p.Pro225Arg,Missense,YES,
+3998920115_R05C02,Rett,MECP2,hg19,c.1157_1197del41,p.Glu374fs,Frameshift,YES,"C-terminal deletion"
+3998920115_R06C01,Rett,MECP2,hg19,,p.Arg255*,Nonsense,YES,
+3998920115_R06C02,MECP2_non_Rett,MECP2,hg19,c.507_508insAG,,Frameshift?,,"It is a male"
+3998920119_R01C01,Coffin_Lowry,RPS6KA3,hg19,c.2065C>T,p.Gln689*,Nonsense,YES,
+3998920119_R01C02,Coffin_Lowry,RPS6KA3,hg19,c.577G>A,p.Asp193Asn,Missense,,VUS
+3998920119_R02C01,Coffin_Lowry,RPS6KA3,hg19,c.2186G>A,p.Arg729Gln,Missense,YES_predicted,Likely_Pathogenic
+3998920119_R02C02,Coffin_Lowry,RPS6KA3,hg19,"c.631_772del142 and c.774+5G>A",,"Frameshift and intronic mutation",YES_predicted,VUS
+3998920119_R03C01,Coffin_Lowry,RPS6KA3,hg19,c.340C>T,p.Arg114Trp,Missense,YES_predicted,Likely_Pathogenic
+3998920119_R03C02,Coffin_Lowry,RPS6KA3,hg19,c.727C>T,p.Arg243*,Nonsense,YES,
+3998920119_R04C01,Coffin_Lowry,RPS6KA3,hg19,"Intron 14:+1G>A",,"Splice site mutation",YES,
+3998920119_R04C02,Coffin_Lowry,RPS6KA3,hg19,,,"Exonic and intronic deletion",YES,"62bp deletion spanning 35bp at 3'end of intron 7 and 29 bp at 5' of exon 8"
+3998920119_R05C01,Coffin_Lowry,RPS6KA3,hg19,c.386_387insCTTT,"p.Phe130Phefs*141 ",Frameshift,YES,
+3998920119_R05C02,Coffin_Lowry,RPS6KA3,hg19,c.2168G>A,p.Arg723His,Missense,NO_predicted,Likely_Benign
+3998920119_R06C01,Coffin_Lowry,RPS6KA3,hg19,c.1155delT,p.Phe385fs*40,Frameshift,YES,
+3998920119_R06C02,Coffin_Lowry,RPS6KA3,hg19,c.1160T>G," p.Phe387Cys",Missense,,VUS
+3998920138_R01C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;350-600/60 repeats"
+3998920138_R01C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;800-1400 repeats"
+3998920138_R02C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;600-1100/150-250/61 repeats"
+3998920138_R02C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;400-900 repeats"
+3998920138_R03C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;350-550/69 repeats"
+3998920138_R03C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;300-950 repeats"
+3998920138_R04C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;500-850/84 repeats"
+3998920138_R04C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;250-550 repeats"
+3998920138_R05C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;950-1300 repeats"
+3998920138_R05C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;550-1300 repeats"
+3998920138_R06C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;300-1300/59 repeats"
+3998920138_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;200-2000 repeats"
+3998920146_R01C01,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Male_mosaic_FM;200-1050/13 repeats"
+3998920146_R01C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;200-450 repeats"
+3998920146_R02C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;300-1000 repeats"
+3998920146_R02C02,Rett,MECP2,hg19,"Deletion in exons 3 and 4",,"Exonic deletion",YES,
+3998920146_R03C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;500-650 repeats"
+3998920146_R03C02,Rett,MECP2,hg19,,p.Arg106Trp,Missense,YES,
+3998920146_R04C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;550-1050 repeats"
+3998920146_R04C02,Rett,MECP2,hg19,,p.Thr158Met,Missense,YES,
+3998920146_R05C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;450-950 repeats"
+3998920146_R05C02,Rett,MECP2,hg19,,p.Arg255*,Nonsense,YES,
+3998920146_R06C01,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;400-750 repeats"
+3998920146_R06C02,Rett,MECP2,hg19,"Partial deletion of exon 4",,"Exonic deletion",YES,
+3999095027_R01C01,ATR-X,ATRX,hg19,c.6254G>A,p.Arg2085His,Missense,YES,
+3999095027_R01C02,ATR-X,ATRX,hg19,c.736C>T,p.Arg246Cys,Missense,YES,
+3999095027_R02C01,ATR-X,ATRX,hg19,c.6593A>G,p.His2198Arg,Missense,YES,
+3999095027_R02C02,ATR-X,ATRX,hg19,c.5579A>G,p.Asn1860Ser,Missense,NO_predicted,Benign
+3999095027_R03C01,ATR-X,ATRX,hg19,c.758T>C,p.Leu253Ser,Missense,YES,
+3999095027_R03C02,ATR-X,ATRX,hg19,c.109C>T,p.Arg37*,Nonsense,YES,
+3999095027_R04C01,ATR-X,ATRX,hg19,c.4817G>A,p.Ser1606Asn,Missense,YES,
+3999095027_R04C02,ATR-X_bad_annotation,ATRX,hg19,,,,,"We can not find the following reported mutation: c.865T>C; p.Cys220Arg"
+3999095027_R05C01,ATR-X,ATRX,hg19,c.5786A>G,p.Lys1929Arg,Missense,YES,
+3999095027_R05C02,ATR-X_bad_annotation,ATRX,hg19,,,,,"We can not find the following reported mutation: c.952G>T; p.Gly249Cys"
+3999095027_R06C01,ATR-X,ATRX,hg19,c.730A>C,p.Ile244Leu,Missense,YES,
+3999095027_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",YES,"Male_FM;600-800 repeats"
+3999941035_R01C01,Angelman,UBE3A,hg19,,,,YES,
+3999941035_R01C02,ATR-X,ATRX,hg19,c.7156C>T,p.Arg2386*,Nonsense,YES,
+3999941035_R02C01,Angelman,UBE3A,hg19,,,,YES,
+3999941035_R02C02,ATR-X,ATRX,hg19,c.536A>G," p.Asn179Ser",Missense,YES,
+3999941035_R03C01,Angelman,UBE3A,hg19,,,,YES,
+3999941035_R03C02,ATR-X,ATRX,hg19,"Exon 207 deletion",,"Exonic deletion",YES,
+3999941035_R04C01,ATR-X,ATRX,hg19,c.109C>T,p.Arg37*,Nonsense,YES,
+3999941035_R04C02,ATR-X,ATRX,hg19,c.7366_7367insA,p.Met2456Asnfs*42,Frameshift,YES,
+3999941035_R05C01,ATR-X,ATRX,hg19,c.109C>T,p.Arg37*,Nonsense,YES,
+3999941035_R05C02,ATR-X,ATRX,hg19,c.736C>T,p.Arg246Cys,Missense,YES,
+3999941035_R06C01,ATR-X,ATRX,hg19,c.109C>T,p.Arg37*,Nonsense,YES,
+3999941035_R06C02,ATR-X,ATRX,hg19,c.109C>T,p.Arg37*,Nonsense,YES,
+9297949061_R01C01,ASD,,hg19,,,,,Race=B
+9297949061_R01C02,ASD,,hg19,,,,,Race=B
+9297949061_R02C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949061_R02C02,Control,,hg19,,,,,"Race=Asian; Control_for_ASD"
+9297949061_R03C01,ASD,,hg19,,,,,Race=W
+9297949061_R03C02,ASD,,hg19,,,,,Race=W
+9297949061_R04C01,Control,,hg19,,,,,"Race=H; Control_for_ASD"
+9297949061_R04C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949061_R05C01,ASD,,hg19,,,,,Race=W
+9297949061_R05C02,ASD,,hg19,,,,,Race=B
+9297949061_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949061_R06C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949140_R01C01,ASD_replicate,,hg19,,,,,"Race=W; ASD_replicate_of_A1"
+9297949140_R01C02,ASD,,hg19,,,,,Race=B
+9297949140_R02C01,Control_replicate,,hg19,,,,,"Race=W; Control_for_ASD_replicate_of_C1"
+9297949140_R02C02,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9297949140_R03C01,ASD_replicate,,hg19,,,,,"Race=W; ASD_replicate_of_A132"
+9297949140_R03C02,ASD,,hg19,,,,,Race=W
+9297949140_R04C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949140_R04C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949140_R05C01,ASD,,hg19,,,,,Race=W
+9297949140_R05C02,ASD,,hg19,,,,,Race=W
+9297949140_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949140_R06C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949145_R01C01,ASD,,hg19,,,,,Race=W
+9297949145_R01C02,ASD,,hg19,,,,,Race=W
+9297949145_R02C01,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9297949145_R02C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949145_R03C01,ASD,,hg19,,,,,Race=W
+9297949145_R03C02,ASD,,hg19,,,,,Race=W
+9297949145_R04C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949145_R04C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949145_R05C01,ASD,,hg19,,,,,Race=W
+9297949145_R05C02,ASD,,hg19,,,,,Race=Other
+9297949145_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949145_R06C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949151_R01C01,ASD,,hg19,,,,,Race=W
+9297949151_R01C02,ASD,,hg19,,,,,Race=H
+9297949151_R02C01,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9297949151_R02C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949151_R03C01,ASD,,hg19,,,,,Race=W
+9297949151_R03C02,ASD,,hg19,,,,,Race=W
+9297949151_R04C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949151_R04C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949151_R05C01,ASD,,hg19,,,,,Race=W
+9297949151_R05C02,ASD,,hg19,,,,,Race=W
+9297949151_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9297949151_R06C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9376537037_R01C01,ASD,,hg19,,,,,Race=W
+9376537037_R01C02,ASD,,hg19,,,,,Race=W
+9376537037_R02C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9376537037_R02C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9376537037_R03C01,ASD,,hg19,,,,,Race=B
+9376537037_R03C02,ASD,,hg19,,,,,Race=W
+9376537037_R04C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9376537037_R04C02,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9376537037_R05C01,ASD,,hg19,,,,,Race=B
+9376537037_R05C02,ASD,,hg19,,,,,Race=B
+9376537037_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9376537037_R06C02,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9553932037_R01C01,Floating_Harbour,SRCAP,hg19,c.8242C>T,p.Arg2748*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R01C02,Floating_Harbour,SRCAP,hg19,c.7303C>T,p.Arg2435*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R02C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R02C02,Floating_Harbour,SRCAP,hg19,c.7282dupC,p.Arg2428Profs*15,Frameshift,YES,"SRCAP sequence testing"
+9553932037_R03C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R04C01,Floating_Harbour,SRCAP,hg19,c.8117C>G,p.Ser2706*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R05C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9553932037_R06C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9553932041_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932041_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932050_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R01C02,ADCA-DN,DNMT1,hg19,c.1709C>T,p.Ala570Val,Missense,YES,"CB 2012"
+9553932055_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R02C02,ADCA-DN,DNMT1,hg19,c.1709C>T,p.Ala570Val,Missense,YES,"KT 2012"
+9553932055_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R03C02,ADCA-DN,DNMT1,hg19,c.1709C>T,p.Ala570Val,Missense,YES,"TN 2012"
+9553932055_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R04C02,ADCA-DN,DNMT1,hg19,c.1709C>T,p.Ala570Val,Missense,YES,"RN 2012"
+9553932055_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9553932055_R06C01,ADCA-DN,DNMT1,hg19,c.1709C>T,p.Ala570Val,Missense,YES,"CB 2008"
+9553932055_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599003_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599011_R01C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R01C02,Floating_Harbour,SRCAP,hg19,c.7316dupC,p.Ala2440Serfs*3,Frameshift,YES,"SRCAP sequence testing"
+9554599011_R02C02,Floating_Harbour,SRCAP,hg19,c.7165G>T,p.Glu2389*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R03C01,Floating_Harbour,SRCAP,hg19,c.7218_7219delTC,p.Gln2407Argfs*35,Frameshift,YES,"SRCAP sequence testing"
+9554599011_R03C02,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R04C02,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R05C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R05C02,Floating_Harbour,SRCAP,hg19,c.7549delC,p.Gln2517Lysfs*5,Frameshift,YES,"SRCAP sequence testing"
+9554599011_R06C01,Floating_Harbour,SRCAP,hg19,c.7330C>T,p.Arg2444*,Nonsense,YES,"SRCAP sequence testing"
+9554599011_R06C02,Floating_Harbour,SRCAP,hg19,c.7219C>T,p.Gln2407*,Nonsense,YES,"SRCAP sequence testing"
+9554599022_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9554599022_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647450082_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455025_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455052_R01C01,Saethre_Chotzen,TWIST1,hg19,c.211C>T,p.Gln71*,Nonsense,YES,
+9647455052_R01C02,Saethre_Chotzen,TWIST1,hg19,c.325C>T,p.Gln109*,Nonsense,YES_predicted,Likely_Pathogenic
+9647455052_R02C01,Saethre_Chotzen,TWIST1,hg19,c.396_416dup21,,"In-frame insertion",YES,
+9647455052_R02C02,Saethre_Chotzen,TWIST1,hg19,c.418T>G,p.Ser140Ala,Missense,,"VUS; A different substitution at this same nucleotide position (c.418T>C; p.S140P) has been previously reported as a disease-causing mutation"
+9647455052_R03C01,Saethre_Chotzen,TWIST1,hg19,c.403A>T,p.Ile135Phe,Missense,,"VUS; A different substitution at the same codon (p.I135M) has been reported as a disease-causing mutation"
+9647455052_R03C02,Saethre_Chotzen,TWIST1,hg19,c.256_276dup21,,"In-frame insertion",,VUS
+9647455052_R04C01,Saethre_Chotzen,TWIST1,hg19,c.180C>T,p.Val60Val,Synonymous,NO_predicted,Likely_Benign
+9647455052_R04C02,Saethre_Chotzen,TWIST1,hg19,c.418T>G,p.Ser140Ala,Missense,,VUS
+9647455052_R05C01,Saethre_Chotzen,TWIST1,hg19,c.193G>T,p.Glu65*,Nonsense,YES,
+9647455052_R05C02,Saethre_Chotzen,TWIST1,hg19,c.472T>C,p.Phe158Leu,Missense,YES,
+9647455052_R06C01,Saethre_Chotzen,TWIST1,hg19,c.256_276dup21,,"In-frame insertion",,VUS
+9647455052_R06C02,Saethre_Chotzen,TWIST1,hg19,c.328C>G,p.Arg110Gly,Missense,,VUS
+9647455094_R01C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R01C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R02C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R02C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R03C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R03C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R04C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R04C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R05C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R05C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R06C01,Undiagnosed_DD/ID,,hg19,,,,,
+9647455094_R06C02,Undiagnosed_DD/ID,,hg19,,,,,
+9647455097_R01C02,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R02C01,Saethre_Chotzen,TWIST1,hg19,,,"Full gene deletion",YES,
+9647455097_R02C02,Beckwith_Wiedemann_bad,,hg19,,,,,
+9647455097_R03C01,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R03C02,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R04C01,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R04C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,Female_het_FM
+9647455097_R05C01,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R05C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_FM;30/400 repeats"
+9647455097_R06C01,Beckwith_Wiedemann,,hg19,,,,YES,
+9647455097_R06C02,FXS,FMR1,hg19,,,"CGG repeat expansion",,"Female_het_FM;31/300 repeats"
+9647455126_R01C01,Saethre_Chotzen,TWIST1,hg19,,,"Full gene deletion",YES,"Detection through MLPA analysis"
+9647455126_R01C02,Saethre_Chotzen,TWIST1,hg19,c.334_335ins21,,"In-frame insertion",,VUS
+9647455126_R02C01,TWIST_sex_mismatch,TWIST1,hg19,,,"Full gene deletion",YES,"MLPA abnormal; MLPA  analysis is consistent with a full gene deletion"
+9647455126_R02C02,Saethre_Chotzen,TWIST1,hg19,c.334_335ins21,,"In-frame insertion",,"Mother to MS0649; VUS"
+9647455126_R03C01,Saethre_Chotzen_FGFR3,FGFR3,hg19,"Exon 7 deletion?",,"Exonic deletion",,"Unknown; MLPA analysis detected normal dosage for the TWIST1 gene but a decrease in dosage for a probe binding to exon 7 of the FGFR3 gene."
+9647455126_R03C02,Saethre_Chotzen,TWIST1,hg19,c.160G>T,p.Gly54*,Nonsense,YES,
+9647455126_R04C01,Saethre_Chotzen,TWIST1,hg19,"c.397_417dup21 ",,"In-frame insertion",YES_predicted,"Likely_Pathogenic; This in-frame alteration has been previously reported in two patients with craniosynostosis but without any supporting functional evidence "
+9647455126_R04C02,Saethre_Chotzen,TWIST1,hg19,c.419C>T,p.Ser140Leu,Missense,,VUS
+9647455126_R05C01,Saethre_Chotzen,TWIST1,hg19,c.120_145del26,,Frameshift,YES,
+9647455126_R05C02,Saethre_Chotzen,TWIST1,hg19,c.149delC,p.Ala50fs,Frameshift,YES,
+9647455126_R06C01,Saethre_Chotzen_FGFR3,FGFR3,hg19,"Exon 7 deletion?",,"Exonic deletion",,"Unkown; MLPA analysis detected normal dosage for the TWIST1 gene but a decrease in dosage for a probe binding to exon 7 of the FGFR3 gene."
+9647455126_R06C02,Saethre_Chotzen,TWIST1,hg19,c.276_296dup21,,"In-frame insertion",,VUS
+9647455179_R01C01,Saethre_Chotzen,TWIST1,hg19,"c.394_414del21  ",,"In-frame deletion",YES,
+9647455179_R01C02,Saethre_Chotzen,TWIST1,hg19,"c.106G>A ",p.Gly36Arg,Missense,,"VUS; Father to MS0670; alteration previously identified in son."
+9647455179_R02C01,Saethre_Chotzen,TWIST1,hg19,"c.406_407ins21 ",,"In-frame insertion",,Unknown
+9647455179_R02C02,Saethre_Chotzen,TWIST1,hg19,c.358C>A,p.Arg120Ser,Missense,,VUS
+9647455179_R03C01,Saethre_Chotzen,TWIST1,hg19,c.406_426dup21,,"In-frame insertion",,VUS
+9647455179_R03C02,Saethre_Chotzen,TWIST1,hg19,c.352C>G,p.Arg118Gly,Missense,YES_predicted,Likely_Pathogenic
+9647455179_R04C01,Saethre_Chotzen,TWIST1,hg19,c.419C>T,p.Ser140Leu,Missense,,"VUS; Father to MS0655"
+9647455179_R04C02,Saethre_Chotzen,TWIST1,hg19,c.422A>C,p.Asp141Ala,Missense,,VUS
+9647455179_R05C01,Saethre_Chotzen,TWIST1,hg19,c.376G>T,p.Glu126*,Nonsense,YES,
+9647455179_R05C02,Saethre_Chotzen,TWIST1,hg19,c.490C>T,p.Gln164*,Nonsense,YES,
+9647455179_R06C01,Saethre_Chotzen,TWIST1,hg19,c.106G>A,p.Gly36Arg,Missense,NO_predicted,Likely_Benign
+9647455179_R06C02,Saethre_Chotzen,TWIST1,hg19,c.276_296dup21,,"In-frame insertion",,"VUS; Father to MS0659"
+9829118108_R01C01,ASD,,hg19,,,,,Race=W
+9829118108_R01C02,ASD,,hg19,,,,,Race=W
+9829118108_R02C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9829118108_R02C02,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9829118108_R03C01,ASD,,hg19,,,,,Race=W
+9829118108_R03C02,ASD,,hg19,,,,,Race=H
+9829118108_R04C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9829118108_R04C02,Control,,hg19,,,,,"Race=B; Control_for_ASD"
+9829118108_R05C01,ASD,,hg19,,,,,Race=W
+9829118108_R05C02,ASD_replicate,,hg19,,,,,"Race=W; ASD_replicate_of_A50"
+9829118108_R06C01,Control,,hg19,,,,,"Race=W; Control_for_ASD"
+9829118108_R06C02,Control_replicate,,hg19,,,,,"Race=W; Control_for_ASD_replicate_of_C50"
+9829118109_R01C01,ASD_replicate,,hg19,,,,,"Race=W; ASD_replicate_of_A1"
+9829118109_R01C02,ASD,,hg19,,,,,Race=W
+9829118109_R02C01,Control_replicate,,hg19,,,,,"Race=W; Control_for_ASD_replicate_of_C1"
+9829118109_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118109_R03C01,ASD,,hg19,,,,,Race=W
+9829118109_R03C02,ASD,,hg19,,,,,Race=W
+9829118109_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118109_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118109_R05C01,ASD,,hg19,,,,,Race=W
+9829118109_R05C02,ASD,,hg19,,,,,Race=B
+9829118109_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118109_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118128_R01C01,ASD,,hg19,,,,,Race=Asian
+9829118128_R01C02,ASD,,hg19,,,,,Race=W
+9829118128_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118128_R02C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118128_R03C01,ASD,,hg19,,,,,Race=H
+9829118128_R03C02,ASD,,hg19,,,,,Race=W
+9829118128_R04C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118128_R04C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118128_R05C01,ASD,,hg19,,,,,Race=W
+9829118128_R05C02,ASD_replicate,,hg19,,,,,Race=W;ASD_replicate_of_A1
+9829118128_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118128_R06C02,Control_replicate,,hg19,,,,,Race=W;Control_for_ASD_replicate_of_C1
+9829118133_R01C01,ASD,,hg19,,,,,Race=W
+9829118133_R01C02,ASD,,hg19,,,,,Race=B
+9829118133_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118133_R02C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118133_R03C01,ASD,,hg19,,,,,Race=W
+9829118133_R03C02,ASD,,hg19,,,,,Race=W
+9829118133_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118133_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118133_R05C01,ASD,,hg19,,,,,Race=B
+9829118133_R05C02,ASD,,hg19,,,,,Race=B
+9829118133_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118133_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118135_R01C01,ASD,,hg19,,,,,Race=B
+9829118135_R01C02,ASD,,hg19,,,,,Race=W
+9829118135_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118135_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118135_R03C01,ASD,,hg19,,,,,Race=B
+9829118135_R03C02,ASD,,hg19,,,,,Race=B
+9829118135_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118135_R04C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118135_R05C01,ASD,,hg19,,,,,Race=Biracial
+9829118135_R05C02,ASD,,hg19,,,,,Race=W
+9829118135_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118135_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118140_R01C01,ASD,,hg19,,,,,Race=W
+9829118140_R01C02,ASD,,hg19,,,,,Race=W
+9829118140_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118140_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118140_R03C01,ASD,,hg19,,,,,Race=W
+9829118140_R03C02,ASD,,hg19,,,,,Race=B
+9829118140_R04C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118140_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118140_R05C01,ASD,,hg19,,,,,Race=W
+9829118140_R05C02,ASD,,hg19,,,,,Race=W
+9829118140_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118140_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118142_R01C01,ASD,,hg19,,,,,Race=B
+9829118142_R01C02,ASD,,hg19,,,,,Race=W
+9829118142_R02C01,Control,,hg19,,,,,Race=Biracial;Control_for_ASD
+9829118142_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118142_R03C01,ASD,,hg19,,,,,Race=W
+9829118142_R03C02,ASD,,hg19,,,,,Race=W
+9829118142_R04C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118142_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118142_R05C01,ASD,,hg19,,,,,Race=B
+9829118142_R05C02,ASD,,hg19,,,,,Race=B
+9829118142_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118142_R06C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118143_R01C01,ASD,,hg19,,,,,Race=Other
+9829118143_R01C02,ASD,,hg19,,,,,Race=W
+9829118143_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9829118143_R02C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118143_R03C01,ASD,,hg19,,,,,Race=W
+9829118143_R03C02,ASD,,hg19,,,,,Race=W
+9829118143_R04C01,Control,,hg19,,,,,Race=Other;Control_for_ASD
+9829118143_R04C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118143_R05C01,ASD,,hg19,,,,,Race=W
+9829118143_R05C02,ASD,,hg19,,,,,Race=W
+9829118143_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9829118143_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R01C01,ASD,,hg19,,,,,Race=W
+9878827069_R01C02,ASD,,hg19,,,,,Race=B
+9878827069_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R03C01,ASD,,hg19,,,,,Race=B
+9878827069_R03C02,ASD,,hg19,,,,,Race=W
+9878827069_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R05C01,ASD,,hg19,,,,,Race=W
+9878827069_R05C02,ASD,,hg19,,,,,Race=H
+9878827069_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827069_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827091_R01C01,ASD,,hg19,,,,,Race=W
+9878827091_R01C02,ASD,,hg19,,,,,Race=W
+9878827091_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827091_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827091_R03C01,ASD,,hg19,,,,,Race=W
+9878827091_R03C02,ASD,,hg19,,,,,Race=H
+9878827091_R04C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9878827091_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827091_R05C01,ASD,,hg19,,,,,Race=H
+9878827091_R05C02,ASD,,hg19,,,,,Race=W
+9878827091_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9878827091_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827132_R01C01,ASD,,hg19,,,,,Race=B
+9878827132_R01C02,ASD,,hg19,,,,,Race=W
+9878827132_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827132_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827132_R03C01,ASD,,hg19,,,,,Race=W
+9878827132_R03C02,ASD,,hg19,,,,,Race=W
+9878827132_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827132_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827132_R05C01,ASD,,hg19,,,,,Race=W
+9878827132_R05C02,ASD,,hg19,,,,,Race=W
+9878827132_R06C01,Control,,hg19,,,,,Race=H;Control_for_ASD
+9878827132_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827146_R01C01,ASD,,hg19,,,,,Race=B
+9878827146_R01C02,ASD,,hg19,,,,,Race=W
+9878827146_R02C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9878827146_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827146_R03C01,ASD,,hg19,,,,,Race=B
+9878827146_R03C02,ASD,,hg19,,,,,Race=W
+9878827146_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827146_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827146_R05C01,ASD,,hg19,,,,,Race=H
+9878827146_R05C02,ASD,,hg19,,,,,Race=W
+9878827146_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827146_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R01C01,ASD,,hg19,,,,,Race=W
+9878827149_R01C02,ASD,,hg19,,,,,Race=W
+9878827149_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R03C01,ASD,,hg19,,,,,Race=W
+9878827149_R03C02,ASD,,hg19,,,,,Race=Biracial
+9878827149_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R05C01,ASD,,hg19,,,,,Race=W
+9878827149_R05C02,ASD,,hg19,,,,,Race=W
+9878827149_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9878827149_R06C02,Control,,hg19,,,,,Race=Biracial;Control_for_ASD
+9904796227_R01C01,ASD,,hg19,,,,,Race=W
+9904796227_R01C02,ASD,,hg19,,,,,Race=W
+9904796227_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9904796227_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9904796227_R03C01,ASD,,hg19,,,,,Race=W
+9904796227_R03C02,ASD,,hg19,,,,,Race=W
+9904796227_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9904796227_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9904796227_R05C01,ASD,,hg19,,,,,Race=B
+9904796227_R05C02,ASD,,hg19,,,,,Race=Multi
+9904796227_R06C01,Control,,hg19,,,,,Race=B;Control_for_ASD
+9904796227_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R01C01,ASD,,hg19,,,,,Race=W
+9933569013_R01C02,ASD,,hg19,,,,,Race=W
+9933569013_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R03C01,ASD,,hg19,,,,,Race=W
+9933569013_R03C02,ASD,,hg19,,,,,Race=W
+9933569013_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R04C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R05C01,ASD,,hg19,,,,,Race=W
+9933569013_R05C02,ASD,,hg19,,,,,Race=Biracial
+9933569013_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569013_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569015_R01C01,ASD,,hg19,,,,,Race=W
+9933569015_R01C02,ASD,,hg19,,,,,Race=W
+9933569015_R02C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569015_R02C02,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569015_R03C01,ASD,,hg19,,,,,Race=W
+9933569015_R03C02,ASD,,hg19,,,,,Race=B
+9933569015_R04C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569015_R04C02,Control,,hg19,,,,,Race=B;Control_for_ASD
+9933569015_R05C01,ASD,,hg19,,,,,Race=W
+9933569015_R05C02,ASD,,hg19,,,,,Race=W
+9933569015_R06C01,Control,,hg19,,,,,Race=W;Control_for_ASD
+9933569015_R06C02,Control,,hg19,,,,,Race=W;Control_for_ASD

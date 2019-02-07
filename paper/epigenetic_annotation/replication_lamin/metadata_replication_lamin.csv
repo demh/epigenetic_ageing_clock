@@ -1,0 +1,3 @@
+File_ID,Feature_type,Data_type,Genome_assembly,Tissue,Age_years,Sex,File_path
+GSM923447,Replication_timing,Wavelet-transformed signals,hg19,IMR90,NA,Female,/Users/dem44/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/epigenetic_annotation/replication_lamin/GSM923447_hg19_wgEncodeUwRepliSeqImr90WaveSignalRep1.bigWig
+GSM1289416,LaminB1,Normalised read counts,hg19,IMR90,NA,NA,/Users/dem44/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/epigenetic_annotation/replication_lamin/GSM1289416_10032013_LaminB1-Input.OIS_hg19_sorted_merged.bigWig

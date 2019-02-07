@@ -1,0 +1,5 @@
+File_ID,Feature_type,Data_type,Genome_assembly,Tissue,Age_years,Sex,File_path
+ENCFF071CIY,RNF2,fold change over control,hg19,K562,NA,NA,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_K562_data/ENCFF071CIY.bigWig
+ENCFF857HEZ,RNF2,fold change over control,hg19,K562,NA,NA,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_K562_data/ENCFF857HEZ.bigWig
+ENCFF320VKN,RNF2,fold change over control,hg19,K562,NA,NA,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_K562_data/ENCFF320VKN.bigWig
+ENCFF847TGB,RNF2,fold change over control,hg19,K562,NA,NA,/nfs/research1/thornton/dem44/methylation_clock/raw_data_human/epigenetic_syndromes/epigenetic_annotation/ENCODE_K562_data/ENCFF847TGB.bigWig

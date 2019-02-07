@@ -1,0 +1,2 @@
+File_ID,Feature_type,Data_type,Genome_assembly,Tissue,Age_years,Sex,File_path
+ENCFF516PTT,EZH2,fold change over control,hg19,B cell,27,Female,/Users/dem44/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/epigenetic_annotation/ENCODE_data/ENCFF516PTT.bigWig

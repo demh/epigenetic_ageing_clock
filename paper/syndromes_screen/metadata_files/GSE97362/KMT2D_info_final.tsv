@@ -1,0 +1,39 @@
+SampleID	Disease_status	Gene	Genome_assembly	Mutation	Protein_change	Mutation_effect	Pathogenic	Other_comments	
+KMT2D-1	Kabuki	KMT2D	hg19	c.15061C>T	p.Arg5021*	Nonsense	YES		
+KMT2D-2	Kabuki	KMT2D	hg19	c.16318delG	p.Glu5440Argfs*16	Frameshift	YES		
+KMT2D-3	Kabuki	KMT2D	hg19	c.15030dup	p.Glu5011Argfs*13	Frameshift	YES		
+KMT2D-4	Kabuki	KMT2D	hg19	c.8172_8173del	p.Pro2724Glnfs*5	Frameshift	YES		
+KMT2D-5	Kabuki	KMT2D	hg19	c.6595delT	p.Tyr2199Ilefs*65	Frameshift	YES		
+KMT2D-6	Kabuki	KMT2D	hg19	c.14055_14056delCA	p.His4685Glnfs*4	Frameshift	YES		
+KMT2D-7	Kabuki	KMT2D	hg19	c.6295C>T	p.Arg2099*	Nonsense	YES		
+KMT2D-8	Kabuki	KMT2D	hg19	c.4135delA	p.Met1379Valfs*52	Frameshift	YES		
+KMT2D-9	Kabuki	KMT2D	hg19	c.12592C>T	p.Arg4198*	Nonsense	YES		
+KMT2D-10	Kabuki	KMT2D	hg19	c.4135delA	p.Met1379Valfs*52	Frameshift	YES		
+KMT2D-11	Kabuki	KMT2D	hg19	c.11710C>T	p.Gln3904*	Nonsense	YES		
+KMT2D-12	Kabuki	KMT2D	hg19	c.15143G>A	p.Arg5048His	Missense	YES_predicted		
+KMT2D-13	Kabuki	KMT2D	hg19	c.12028T>C	p.Ser4010Pro	Missense	NO_predicted		
+KMT2D-14	Kabuki	KMT2D	hg19	c.16522-5_16522-4delTT	NA	Splice site mutation	YES_predicted		
+KMT2D-15	Kabuki	KMT2D	hg19	c.15910A>G	p.Ile5304Val	Missense	NO_predicted		
+KMT2D-16	Kabuki	KMT2D	hg19	c.15659G>A	p.Arg5220His	Missense	NO_predicted		
+KMT2D-17	Kabuki	KMT2D	hg19	c.10256A>G	p.Asp3419Gly	Missense	NO_predicted		
+KMT2D-18	Kabuki	KMT2D	hg19	c.8974G>A	p.Glu2992Lys	Missense	NO_predicted		
+KMT2D-19	Kabuki	KMT2D	hg19	c.8831A>G	p.Asn2944Ser	Missense	NO_predicted		
+KMT2D-20	Kabuki	KMT2D	hg19	c.832G>A	p.Ala278Thr	Missense	NO_predicted		
+KMT2D-21	Kabuki	KMT2D	hg19	c.682C>G	p.Arg228Gly	Missense	NO_predicted		
+KDM6A-1	Kabuki_KDM6A	KDM6A	hg19	c.2668_2669dupTA	p.Pro891Thrfs*8	Frameshift	YES		
+KMT2D-22	Kabuki	KMT2D	hg19	c.11158C>T	p.Gln3720*	Nonsense	YES		
+KMT2D-23	Kabuki	KMT2D	hg19	c.15587T>A	p.Met5196Lys	Missense	NO_predicted		
+KMT2D-24	Kabuki	KMT2D	hg19	c.11150A>C	p.Gln3717Pro	Missense	NO_predicted		
+KMT2D-25	Kabuki	KMT2D	hg19	c.16521+1G>T	NA	Splice site mutation	YES_predicted		
+KMT2D-26	Kabuki	KMT2D	hg19	c.1940dupC	p.Pro648Thrfs*2	Frameshift	YES		
+KMT2D-27	Kabuki	KMT2D	hg19	c.11578_11580dupCAG	p.Gln3860delinsProGlu	In-frame insertion	NO_predicted		
+KMT2D-28	Kabuki	KMT2D	hg19	c.10909C>A	p.Pro3637Thr	Missense	NO_predicted		
+KMT2D-29	Kabuki	KMT2D	hg19	c.15088C>T	p.Arg5030Cys	Missense	YES_predicted		
+KMT2D-30	Kabuki	KMT2D	hg19	c.5135delA	p.Lys1712Argfs*10	Frameshift	YES		
+KMT2D-31	Kabuki	KMT2D	hg19	c.12662_12664dupAGC	p.Gln4221dup	In-frame insertion	NO_predicted		
+KMT2D-32	Kabuki	KMT2D	hg19	c.16052G>A	p.Arg5351Gln	Missense	YES_predicted		
+KMT2D-33	Kabuki	KMT2D	hg19	c.11203C>T	p.Gln3735*	Nonsense	YES		
+KMT2D-34	Kabuki	KMT2D	hg19	c.2334C>G	p.Cys778Trp	Missense	NO_predicted		
+KMT2D-35	Kabuki	KMT2D	hg19	c.14731_14733delCCT	p.Pro4911del	In-frame deletion	NO_predicted		
+KMT2D-36	Kabuki	KMT2D	hg19	c.15536G>A	p.Arg5179His	Missense	YES_predicted		
+KMT2D-37	Kabuki	KMT2D	hg19	c.15626G>T	p.Gly5209Val	Missense	YES_predicted		

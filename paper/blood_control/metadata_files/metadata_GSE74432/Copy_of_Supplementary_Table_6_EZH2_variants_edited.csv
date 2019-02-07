@@ -1,0 +1,9 @@
+SampleID,Gene,Genome_assembly,Mutation,Protein_change,Mutation_effect,Pathogenic,Other_comments,Gender,Age_years
+A123,EZH2,hg19,c.457_459delTAT,p.Tyr153del,In-frame deletion,YES,NA,M,30
+A134,EZH2,hg19,c.2080C>T,p.His694Tyr,Missense,YES,NA,F,10.9167
+A117,EZH2,hg19,c.394C>T,p.Pro132Ser,Missense,YES,NA,F,19.75
+A120,EZH2,hg19,c.394C>T,p.Pro132Ser,Missense,YES,NA,M,1.0833
+A212,EZH2,hg19,c.398A>G,p.Tyr133Cys,Missense,YES,NA,F,17
+A1359,EZH2,hg19,c.2050C>T,p.Arg684Cys,Missense,YES,NA,M,2.5833
+F0123,EZH2,hg19,c.553G>C,p.Asp185His,Missense,YES,NA,M,15.4167
+DL129940,EZH2,hg19,c.1876G>A,p.Val626Met,Missense,YES,NA,M,43

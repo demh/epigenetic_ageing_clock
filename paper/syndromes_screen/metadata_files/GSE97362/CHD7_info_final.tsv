@@ -1,0 +1,73 @@
+SampleID	Disease_status	Gene	Genome_assembly	Mutation	Protein_change	Mutation_effect	Pathogenic	Other_comments	
+CHD7-1	CHARGE	CHD7	hg19	c.7282C>T	p.Arg2428*	Nonsense	YES		
+CHD7-2	CHARGE	CHD7	hg19	c.3526C>T 	p.Gln1176*	Nonsense	YES		
+CHD7-3	CHARGE	CHD7	hg19	c.934C>T	p.Arg312*	Nonsense	YES		
+CHD7-4	CHARGE	CHD7	hg19	c.562C>T 	p.Gln188*	Nonsense	YES		
+CHD7-5	CHARGE	CHD7	hg19	c.1327_1331delATGGG	p.Met443Asnfs*130	Frameshift	YES		
+CHD7-6	CHARGE	CHD7	hg19	c.2504_2508delATCTT	p.Tyr835Serfs*14	Frameshift	YES		
+CHD7-7	CHARGE	CHD7	hg19	c.1990G>T	p.Glu664*	Nonsense	YES		
+CHD7-8	CHARGE	CHD7	hg19	c.3377dupT	p.Leu1126Phefs*46	Frameshift	YES		
+CHD7-9	CHARGE	CHD7	hg19	c.2585delA	p.Lys862Serfs*26	Frameshift	YES		
+CHD7-10	CHARGE	CHD7	hg19	c.2905_2906del 	p.Arg969Glyfs*25	Frameshift	YES		
+CHD7-11	CHARGE	CHD7	hg19	c.7636G>T	p.Glu2546*	Nonsense	YES		
+CHD7-12	CHARGE	CHD7	hg19	c.361delC	p.Gly121Valfs*90	Frameshift	YES		
+CHD7-13	CHARGE	CHD7	hg19	c.2504_2508delATCTT	p.Tyr835Serfs*14	Frameshift	YES		
+CHD7-14	CHARGE	CHD7	hg19	c.7717_7720del	p.Asn2573*	Nonsense	YES		
+CHD7-15	CHARGE	CHD7	hg19	c.5458C>T	p.Arg1820*	Nonsense	YES		
+CHD7-16	CHARGE	CHD7	hg19	Exon 1 deletion	NA	Exonic deletion	YES		
+CHD7-17	CHARGE	CHD7	hg19	c.5405-17G>A	NA	Splice site mutation	YES		
+CHD7-18	CHARGE	CHD7	hg19	c.5405-7G>A	NA	Splice site mutation	YES		
+CHD7-19	CHARGE	CHD7	hg19	c.2097-1G>A	NA	Splice site mutation	YES		
+CHD7-20	CHARGE	CHD7	hg19	c.6322G>T	p.Gly2108Trp	Missense	YES_predicted		
+CHD7-21	CHARGE	CHD7	hg19	c.3746G>A	p.Arg1249Gln	Missense	YES_predicted		
+CHD7-22	CHARGE	CHD7	hg19	c.2751G>A	p.Thr917Thr	Synonymous	NO_predicted		
+CHD7-23	CHARGE	CHD7	hg19	c.-15G>A	NA	Splice site mutation	YES_predicted		
+CHD7-24	CHARGE	CHD7	hg19	c.4225G>A	p.Val1409Met	Missense	YES_predicted		
+CHD7-25	CHARGE	CHD7	hg19	c.5436C>G	p.Asp1812Glu	Missense	YES_predicted		
+CHD7-26	CHARGE	CHD7	hg19	c.5633A>G	p.Asp1878Gly	Missense	NO_predicted		
+CHD7-27	CHARGE	CHD7	hg19	c.5848G>A	p.Ala1950Thr	Missense	NO_predicted		
+CHD7-28	CHARGE	CHD7	hg19	c.6304G>T	p.Val2102Phe	Missense	NO_predicted		
+CHD7-29	CHARGE	CHD7	hg19	c.3566G>A	p.Arg1189His	Missense	NO_predicted		
+CHD7-30	CHARGE	CHD7	hg19	c.2238+1del	NA	Splice site mutation	YES_predicted		
+CHD7-31	CHARGE	CHD7	hg19	c.2049_2050insAAAGCA	p.Lys683_Ala684dup	In-frame insertion	NO_predicted		
+CHD7-32	CHARGE	CHD7	hg19	c.6377A>T	p.Asp2126Val	Missense	NO_predicted		
+CHD7-33	CHARGE	CHD7	hg19	c.4851T>G	p.Gly1617Gly	Synonymous	NO_predicted		
+CHD7-34	CHARGE	CHD7	hg19	c.5097dupA	p.Ala1700Serfs*37	Frameshift	YES		
+CHD7-35	CHARGE	CHD7	hg19	c.8791G>A	p.Val2931Met	Missense	YES_predicted		
+CHD7-36	CHARGE	CHD7	hg19	c.799G>T	p.Glu267*	Nonsense	YES		
+CHD7-37	CHARGE	CHD7	hg19	c.8802C>G	p.Ser2934Arg	Missense	NO_predicted		
+CHD7-38	CHARGE	CHD7	hg19	c.2516_2518delAGT	p.Gln839_Trp840delinsArg	In-frame deletion	YES_predicted		
+CHD7-39	CHARGE	CHD7	hg19	c.8759G>C	p.Gly2920Ala	Missense	NO_predicted		
+CHD7-40	CHARGE	CHD7	hg19	c.1312C>T	p.Gln438*	Nonsense	YES		
+CHD7-41	CHARGE	CHD7	hg19	c.6322G>A	p.Gly2108Arg	Missense	YES_predicted		
+CHD7-42	CHARGE	CHD7	hg19	c.127A>G	p.Ile43Val	Missense	YES_predicted		
+CHD7-43	CHARGE	CHD7	hg19	c.1405A>G	p.Gln17Gln	Synonymous	NO_predicted		
+CHD7-44	CHARGE	CHD7	hg19	c.7763A>G	p.Asn2588Ser	Missense	YES_predicted		
+CHD7-45	CHARGE	CHD7	hg19	c.3871A>C	p.Lys1291Gln	Missense	YES_predicted		
+CHD7-46	CHARGE	CHD7	hg19	c.5050G>A	p.Gly1684Ser	Missense	YES_predicted		
+CHD7-47	CHARGE	CHD7	hg19	c.5210+3A>G	NA	Splice site mutation	YES_predicted		
+CHD7-48	CHARGE	CHD7	hg19	c.6193C>T	p.Arg2065Cys	Missense	YES_predicted		
+CHD7-49	CHARGE	CHD7	hg19	c.3762T>A	p.His1254Gln	Missense	YES_predicted		
+CHD7-50	CHARGE	CHD7	hg19	c.583C>T	p.Arg195Cys	Missense	NO_predicted		
+CHD7-51	CHARGE	CHD7	hg19	c.4087delC	p.Leu1363Serfs*9	Frameshift	YES		
+CHD7-52	CHARGE	CHD7	hg19	c.2498+1G>T	NA	Splice site mutation	YES_predicted		
+CHD7-53	CHARGE	CHD7	hg19	c.1918delG	p.Glu640Lysfs*71	Frameshift	YES		
+CHD7-54	CHARGE	CHD7	hg19	c.1562C>T	p.Pro521Leu	Missense	NO_predicted		
+CHD7-55	CHARGE	CHD7	hg19	c.604C>T	p.Gln202*	Nonsense	YES		
+CHD7-56	CHARGE	CHD7	hg19	c.4393C>T	p.Arg1465*	Nonsense	YES		
+CHD7-57	CHARGE	CHD7	hg19	c.5666-9C>G	NA	Splice site mutation	YES_predicted		
+CHD7-58	CHARGE	CHD7	hg19	c.5029C>T	p.Arg1677*	Nonsense	YES		
+CHD7-59	CHARGE	CHD7	hg19	c.1797_1799delGAA	p.Lys602del	In-frame deletion	NO_predicted		
+CHD7-60	CHARGE	CHD7	hg19	c.3177T>G	p.Tyr1059*	Nonsense	YES		
+CHD7-61	CHARGE	CHD7	hg19	c.2839C>T	p.Arg947*	Nonsense	YES		
+CHD7-62	CHARGE	CHD7	hg19	c.5429G>C	p.Arg1810Pro	Missense	YES_predicted		
+CHD7-63	CHARGE	CHD7	hg19	c.4361_4362delAG	p.Gln1454Profs*21	Frameshift	YES		
+CHD7-64	CHARGE	CHD7	hg19	c.2362C>T	p.Gln788*	Nonsense	YES		
+CHD7-65	CHARGE	CHD7	hg19	c.5827C>T	p.Arg1943Trp	Missense	NO_predicted		
+CHD7-66	CHARGE	CHD7	hg19	c.317A>G	p.His106Arg	Missense	NO_predicted		
+CHD7-67	CHARGE	CHD7	hg19	c.6529G>A	p.Glu2177Lys	Missense	NO_predicted		
+CHD7-68	CHARGE	CHD7	hg19	c.8507delC	p.Pro2836Argfs*53	Frameshift	YES		
+CHD7-69	CHARGE	CHD7	hg19	c.3655C>T	p.Arg1219*	Nonsense	YES		
+CHD7-70	CHARGE	CHD7	hg19	c.6356A>G	p.Asp2119Gly	Missense	YES_predicted		
+CHD7-71	CHARGE	CHD7	hg19	c.1141_1142delAT	p.Met381Alafs*23	Frameshift	YES		
+CHD7-72	CHARGE	CHD7	hg19	c.3082A>G	p.Ile1028Val	Missense	YES_predicted		
