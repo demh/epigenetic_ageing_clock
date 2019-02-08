@@ -4,7 +4,7 @@ Created by Daniel E. Martin-Herranz.
 
 Copyright (C) 2019 D.E. Martin-Herranz
 
-[![DOI](https://zenodo.org/badge/169565269.svg)](https://zenodo.org/badge/latestdoi/169565269)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2559588.svg)](https://doi.org/10.5281/zenodo.2559588)
 
 
 ## Introduction
