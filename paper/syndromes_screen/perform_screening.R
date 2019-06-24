@@ -210,6 +210,8 @@ for(d in all_diseases){
          subtitle=paste0()) +  
     xlim(c(-1,55)) + ylim(c(-30,40));
   
+  if(d=='Sotos'){Sotos_data <- temp_data}; # Store data for Sotos
+  
 }
 
 
@@ -306,6 +308,14 @@ dev.off();
 pdf("plots/plot_Sotos_EEA_with_CCC.pdf", height=4, width=4);
 plots_scatterplot_delta_int[['Sotos']];
 dev.off();
+
+## Check how EAA behaves for Sotos patients. 
+
+only_Sotos_data <- Sotos_data[Sotos_data$Disease_status=='Sotos',];
+summary(lm(delta_ext_int~Age_years, data=only_Sotos_data)); # EAA without CCC, all data, p-value=0.00514
+summary(lm(delta_ext_int~Age_years, data=only_Sotos_data[only_Sotos_data$Age_years!=41,])); # EAA without CCC, remove outlier, p-value=0.1087
+summary(lm(delta_int~Age_years, data=only_Sotos_data)); # EAA with CCC, all data, p-value=0.00569
+summary(lm(delta_int~Age_years, data=only_Sotos_data[only_Sotos_data$Age_years!=41,])); # EAA with CCC, remove outlier, p-value=0.1785
 
 ## Scatterplots for all the disorders in screening (supplementary).
 

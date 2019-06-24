@@ -95,13 +95,13 @@ jplot_RMSE <- ggplot(data=results_methods, aes(x=Name, y=RMSE, group=1)) +
   geom_jitter(aes(col=Cell), position = position_jitter(height = 0, width = 0)) +
   theme_classic() +
   theme(axis.text=element_text(size=12),
-        axis.text.x=element_text(angle = 90, hjust = 1),
+        axis.text.x=element_text(angle = 90, hjust = 1, size=12, vjust=0.5),
         axis.title=element_text(size=14,face="bold")) +
   scale_colour_brewer(type = "qual", palette = 'Dark2') + 
   xlab('Cell-type deconvolution strategy') + 
   geom_hline(yintercept=min(aggregate(results_methods$RMSE, list(results_methods$Name), mean)[,2]), linetype="dashed", col="grey");
 
-ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/cell_composition/plots/jplot_RMSE.pdf",
+ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_ageing_clock/paper/cell_composition/plots/jplot_RMSE.pdf",
        jplot_RMSE, height=7, width=7.5);
 
 mean_RMSE_ranking <- aggregate(results_methods$RMSE, list(results_methods$Name), mean);
@@ -112,13 +112,13 @@ jplot_MAE <- ggplot(data=results_methods, aes(x=Name, y=MAE, group=1)) +
   geom_jitter(aes(col=Cell), position = position_jitter(height = 0, width = 0)) +
   theme_classic() +
   theme(axis.text=element_text(size=12),
-        axis.text.x=element_text(angle = 90, hjust = 1),
+        axis.text.x=element_text(angle = 90, hjust = 1, size=12, vjust=0.5),
         axis.title=element_text(size=14,face="bold")) +
   scale_colour_brewer(type = "qual", palette = 'Dark2') + 
   xlab('Cell-type deconvolution strategy') + 
   geom_hline(yintercept=min(aggregate(results_methods$MAE, list(results_methods$Name), mean)[,2]), linetype="dashed", col="grey");
 
-ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/cell_composition/plots/jplot_MAE.pdf",
+ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_ageing_clock/paper/cell_composition/plots/jplot_MAE.pdf",
        jplot_MAE, height=7, width=7.5);
 
 mean_MAE_ranking <- aggregate(results_methods$MAE, list(results_methods$Name), mean);
@@ -129,13 +129,13 @@ jplot_R2 <- ggplot(data=results_methods, aes(x=Name, y=R2, group=1)) +
   geom_jitter(aes(col=Cell), position = position_jitter(height = 0, width = 0)) +
   theme_classic() +
   theme(axis.text=element_text(size=12),
-        axis.text.x=element_text(angle = 90, hjust = 1),
+        axis.text.x=element_text(angle = 90, hjust = 1, size=12, vjust=0.5),
         axis.title=element_text(size=14,face="bold")) +
   scale_colour_brewer(type = "qual", palette = 'Dark2') + 
   xlab('Cell-type deconvolution strategy') + 
   geom_hline(yintercept=max(aggregate(results_methods$R2, list(results_methods$Name), mean)[,2]), linetype="dashed", col="grey");
 
-ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/cell_composition/plots/jplot_R2.pdf",
+ggsave(file="~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_ageing_clock/paper/cell_composition/plots/jplot_R2.pdf",
        jplot_R2, height=7, width=7.5);
 
 mean_R2_ranking <- aggregate(results_methods$R2, list(results_methods$Name), mean);
@@ -160,14 +160,15 @@ for(m in methods_to_scatterplot){
     theme(axis.text=element_text(size=12),
           axis.title=element_text(size=14,face="bold"),
           plot.title = element_text(hjust = 0.5),
-          plot.subtitle = element_text(hjust = 0.5)) +
+          plot.subtitle = element_text(hjust = 0.5),
+          plot.margin = unit(c(1,1,1,1), "cm")) +
     xlab("Real cellular fractions (%)") + ylab("Predicted cellular fractions (%)") +
     labs(title = paste0("Cell type: ", c), subtitle = paste0('Strategy: ', m));
     i <- i+1;
   }
   
   exp <- do.call("arrangeGrob", c(m_plots, nrow=3, ncol=2)); 
-  ggsave(file=paste0('~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/cell_composition/plots/', m,'_scatterplots.pdf'), 
+  ggsave(file=paste0('~/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_ageing_clock/paper/cell_composition/plots/', m,'_scatterplots.pdf'), 
          exp, height=15, width=10);
   
 }

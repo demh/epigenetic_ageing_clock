@@ -24,7 +24,7 @@ library(ggplot2);
 library(ggpubr);
 library(ggthemes);
 
-setwd('/Users/dem44/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_syndromes/entropy');
+setwd('/Users/dem44/Desktop/methylation_clock/polycomb_hypothesis/epigenetic_ageing_clock/paper/entropy/');
 
 
 ################################################################
@@ -165,6 +165,31 @@ ggsave("plots/entropy_diff_Sotos_scatterplot.pdf", height=5, width=5);
 #   guides(col=guide_legend(title="Batch")) +
 #   xlim(c(-1,55)) + ylim(c(-0.06, 0.06));
 # ggsave("plots/entropy_diff_batch_scatterplot.pdf", height=5, width=5);
+
+## Make sure this conclusion holds inside Sotos batch i.e. not due to batch effect (GSE74432).
+
+Sotos_batch_data <- all_merge[all_merge$Batch=='GSE74432',];
+lm_entropy_control_batch <- lm(lm_formula_int, data=Sotos_batch_data[Sotos_batch_data$Disease_status=='Control',]);
+Sotos_batch_data$entropy_diff <- NA;
+Sotos_batch_data$entropy_diff[Sotos_batch_data$Disease_status=='Control'] <- lm_entropy_control_batch$residuals;
+Sotos_batch_data$entropy_diff[Sotos_batch_data$Disease_status=='Sotos'] <- Sotos_batch_data$entropy[Sotos_batch_data$Disease_status=='Sotos'] - 
+  as.numeric(predict(lm_entropy_control_batch, newdata=Sotos_batch_data[Sotos_batch_data$Disease_status=='Sotos',]));
+wilcox.test(Sotos_batch_data$entropy_diff[Sotos_batch_data$Disease_status=='Control'], Sotos_batch_data$entropy_diff[Sotos_batch_data$Disease_status=='Sotos'])$p.value; #0.7251941
+
+entropy_Sotos_scatterplot_batch <- ggplot(data=Sotos_batch_data, aes(x=Age_years, y=entropy, col=Disease_status)) + 
+  geom_point() + scale_color_manual(values=my_palette) +
+  theme_classic() +
+  theme(axis.text=element_text(size=12),
+        axis.title=element_text(size=14,face="bold"),
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5)) +
+  xlab("Chronological age (years)") + ylab("Genome-wide Shannon entropy") +
+  labs(title = paste0("Control: N=", sum(Sotos_batch_data$Disease_status=='Control'), "\n",
+                      "Sotos: N=", sum(Sotos_batch_data$Disease_status=='Sotos')), 
+       subtitle=paste0()) + 
+  guides(col=guide_legend(title="Disease status")) + 
+  xlim(c(-1,55)) + ylim(c(0.30, 0.60));
+ggsave("plots/entropy_Sotos_scatterplot_batch.pdf", height=5, width=5);
 
 
 #### 3. Results for entropy in the 353 clock CpG sites. ####
@@ -316,6 +341,33 @@ ggsave("plots/clock_entropy_diff_Sotos_scatterplot.pdf", height=5, width=5);
 #   guides(col=guide_legend(title="Batch")) +
 #   xlim(c(-1,55)) + ylim(c(-0.06, 0.06));
 # ggsave("plots/clock_entropy_diff_batch_scatterplot.pdf", height=5, width=5);
+
+## Make sure this conclusion holds inside Sotos batch i.e. not due to batch effect (GSE74432).
+
+Sotos_batch_data_2 <- all_merge[all_merge$Batch=='GSE74432',];
+lm_formula_int_batch_2 <- paste0('clock_entropy~Age_years+Sex+Gran+CD4T+CD8T+B+Mono+NK+', paste(colnames(Sotos_batch_data_2)[grep('PC',colnames(Sotos_batch_data_2))], collapse='+'));
+lm_entropy_control_batch_2 <- lm(lm_formula_int_batch_2, data=Sotos_batch_data_2[Sotos_batch_data_2$Disease_status=='Control',]);
+Sotos_batch_data_2$clock_entropy_diff <- NA;
+Sotos_batch_data_2$clock_entropy_diff[Sotos_batch_data_2$Disease_status=='Control'] <- lm_entropy_control_batch_2$residuals;
+Sotos_batch_data_2$clock_entropy_diff[Sotos_batch_data_2$Disease_status=='Sotos'] <- Sotos_batch_data_2$clock_entropy[Sotos_batch_data_2$Disease_status=='Sotos'] - 
+  as.numeric(predict(lm_entropy_control_batch_2, newdata=Sotos_batch_data_2[Sotos_batch_data_2$Disease_status=='Sotos',]));
+wilcox.test(Sotos_batch_data_2$clock_entropy_diff[Sotos_batch_data_2$Disease_status=='Control'], Sotos_batch_data_2$clock_entropy_diff[Sotos_batch_data_2$Disease_status=='Sotos'])$p.value; # 7.375728e-11 
+
+clock_entropy_Sotos_scatterplot_batch <- ggplot(data=Sotos_batch_data_2, aes(x=Age_years, y=clock_entropy, col=Disease_status)) + 
+  geom_point() + scale_color_manual(values=my_palette) +
+  theme_classic() +
+  theme(axis.text=element_text(size=12),
+        axis.title=element_text(size=14,face="bold"),
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5)) +
+  xlab("Chronological age (years)") + ylab("Shannon entropy for the clock sites") +
+  labs(title = paste0("Control: N=", sum(Sotos_batch_data_2$Disease_status=='Control'), "\n",
+                      "Sotos: N=", sum(Sotos_batch_data_2$Disease_status=='Sotos')), 
+       subtitle=paste0()) + 
+  guides(col=guide_legend(title="Disease status")) + 
+  xlim(c(-1,55)) + ylim(c(0.30, 0.60));
+ggsave("plots/clock_entropy_Sotos_scatterplot_batch.pdf", height=5, width=5);
+
 
 ################################################################
 ################## End of the script ###########################

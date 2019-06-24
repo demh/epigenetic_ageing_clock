@@ -55,7 +55,8 @@ all_merge$pcgtAge_diff <- NA;
 all_merge$pcgtAge_diff[all_merge$Disease_status=='Control'] <- lm_pcgtAge_control$residuals;
 all_merge$pcgtAge_diff[all_merge$Disease_status=='Sotos'] <- all_merge$pcgtAge[all_merge$Disease_status=='Sotos'] - 
   as.numeric(predict(lm_pcgtAge_control, newdata=all_merge[all_merge$Disease_status=='Sotos',]));
-wilcox.test(all_merge$pcgtAge_diff[all_merge$Disease_status=='Control'], all_merge$pcgtAge_diff[all_merge$Disease_status=='Sotos'])$p.value;
+wilcox.test(all_merge$pcgtAge_diff[all_merge$Disease_status=='Control'], all_merge$pcgtAge_diff[all_merge$Disease_status=='Sotos'])$p.value; # All data, p-value=0.01122896
+wilcox.test(all_merge$pcgtAge_diff[all_merge$Disease_status=='Control'], all_merge$pcgtAge_diff[all_merge$Disease_status=='Sotos'&all_merge$Age_years!=41])$p.value; # Without Sotos outlier, p-value=0.02454965
 
 ## Plots. 
 
