@@ -35,15 +35,26 @@ This repository contains all the code that you need to run the following analyse
 * Reproducing all the analyses and the figures in our manuscript.
 
 
+## Quick workflow to calculate DNAmAge (biological age from Horvath's clock) starting with raw IDAT files.
+
+1. Obtain the matrix of beta-values from raw IDAT files (IDAT files --> idat_to_DNAmAge_methylation_matrix.R --> beta-values matrix):
+
+`Rscript ~/epigenetic_ageing_clock/utils/idat_to_DNAmAge_methylation_matrix.R ~/path/to/idats ~/path/to/output ~/epigenetic_ageing_clock/utils/  'noob'`
+
+2. Calculate DNAmAge (beta-values matrix --> calculate_DNAm_age.R --> DNAmAge calculations):
+
+`Rscript ~/epigenetic_ageing_clock/utils/calculate_DNAm_age.R -i ~/path/to/output/DNAmAge_methylation_matrix_from_idat_xxxxx.csv -o ~/path/to/output/ -a ~/epigenetic_ageing_clock/utils/`
+
+
 ## Citing us 
 
 If you found this code useful for you research, please cite our original publication:
 
-> Daniel E. Martin-Herranz et al.; Screening for genes that accelerate the epigenetic ageing clock in humans reveals a role for the H3K36 methyltransferase NSD1, *Genome Biology* (submitted), 2019.
+> Martin-Herranz, D.E. et al. Screening for genes that accelerate the epigenetic aging clock in humans reveals a role for the H3K36 methyltransferase NSD1. Genome Biol 20, 146 (2019). https://doi.org/10.1186/s13059-019-1753-9
 
 
 ## Contacting us
 
-If you experience any issues with the code or have any suggestions, please contact us at dem44@ebi.ac.uk.
+If you experience any issues with the code or have any suggestions, please contact us at daniel@chronomics.com.
 
 
