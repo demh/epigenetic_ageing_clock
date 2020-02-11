@@ -35,7 +35,7 @@ This repository contains all the code that you need to run the following analyse
 * Reproducing all the analyses and the figures in our manuscript.
 
 
-## Quick workflow to calculate DNAmAge (biological age from Horvath's clock) starting with raw IDAT files.
+## Quick workflow to calculate DNAmAge (Horvath's clock age):
 
 1. Obtain the matrix of beta-values from raw IDAT files (IDAT files --> idat_to_DNAmAge_methylation_matrix.R --> beta-values matrix):
 
